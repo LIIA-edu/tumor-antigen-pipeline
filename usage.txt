@@ -1,0 +1,6 @@
+nextflow run main.nf \
+    --input assets/test_input.h5ad \
+    --specificity hpa \
+    --pan_cancer \
+    --gene_name_mapping assets/gene_names.json \
+    --epitopes assets/epitetos_tambaq.csv

@@ -1,0 +1,717 @@
+epitope_id_clean,EPITOPE_NAME,EPITOPE_SOURCE_MOLECULE,EPITOPE_MOLECULE_PARENT_IRI,n_mhc_assays,n_tcell_assays,cancer,true_ids,gene_name
+176063,KSFPGGKEY,"Adaptor-related protein complex 1, mu 2 subunit",http://www.uniprot.org/uniprot/Q9Y6Q5-2,2,0,breast_cancer,Q9Y6Q5,AP1M2
+448301,SLAPAPLSTK,pituitary homeobox 1 [Homo sapiens],http://www.uniprot.org/uniprot/P78337,1,0,breast_cancer,P78337,PITX1
+470111,RPRPSTDVRAL,protein FAM46B,http://www.uniprot.org/uniprot/Q96A09,1,0,breast_cancer,Q96A09,TENT5B
+475202,AENKEIQKL,Anterior gradient protein 2 homolog,http://www.uniprot.org/uniprot/O95994,2,0,breast_cancer,O95994,AGR2
+475259,AEQGPAATA,Terminal nucleotidyltransferase 5B,http://www.uniprot.org/uniprot/Q96A09,1,0,breast_cancer,Q96A09,TENT5B
+605116,GRYHGKFTF,aldehyde dehydrogenase,http://www.uniprot.org/uniprot/P48448,1,0,breast_cancer,P48448,ALDH3B2
+761453,IWIESVIEKF,AP-1 complex subunit mu-2 isoform 2 [Homo sapiens],http://www.uniprot.org/uniprot/Q9Y6Q5,2,0,breast_cancer,Q9Y6Q5,AP1M2
+761732,KIPVSAFLL,Anterior gradient protein 2 homolog,http://www.uniprot.org/uniprot/O95994,2,0,breast_cancer,O95994,AGR2
+765758,TVSGIQVRY,AP-1 complex subunit mu-2 isoform 2 [Homo sapiens],http://www.uniprot.org/uniprot/Q9Y6Q5,2,0,breast_cancer,Q9Y6Q5,AP1M2
+766124,VLHPESGLGY,protein FAM46B,http://www.uniprot.org/uniprot/Q96A09,2,0,breast_cancer,Q96A09,TENT5B
+769979,AAVIPIKNNRFYTIEILKVE,"prolactin-induced protein, partial [Homo sapiens]",http://www.uniprot.org/uniprot/P12273,1,0,breast_cancer,P12273,PIP
+770893,DAAVIPIKNNRFYTIEILKVE,"prolactin-induced protein, partial [Homo sapiens]",http://www.uniprot.org/uniprot/P12273,1,0,breast_cancer,P12273,PIP
+771775,EEIESQIQKF,zinc transporter ZIP2 isoform a [Homo sapiens],http://www.uniprot.org/uniprot/Q9NP94,1,0,breast_cancer,Q9NP94,SLC39A2
+772637,GHGQEVLI,myoglobin transcript variant 1 [Homo sapiens],http://www.uniprot.org/uniprot/P02144,1,0,breast_cancer,P02144,MB
+772975,GQVVRINF,gamma-butyrobetaine dioxygenase [Homo sapiens],http://www.uniprot.org/uniprot/O75936,1,0,breast_cancer,O75936,BBOX1
+773845,IRIPTPVIHTKH,"creatine kinase U-type, mitochondrial isoform 2",http://www.uniprot.org/uniprot/P12532,1,0,breast_cancer,P12532,CKMT1A
+774327,KPHLEGAAF,TRIM29 protein [Homo sapiens],http://www.uniprot.org/uniprot/Q14134,1,0,breast_cancer,Q14134,TRIM29
+775099,LFRASPATL,prolactin-inducible protein precursor [Homo sapiens],http://www.uniprot.org/uniprot/P12273,1,0,breast_cancer,P12273,PIP
+776378,PVIQERHNGYD,"creatine kinase U-type, mitochondrial isoform 2",http://www.uniprot.org/uniprot/P12532,1,0,breast_cancer,P12532,CKMT1A
+777793,RYDEHAYKW,gamma-butyrobetaine dioxygenase [Homo sapiens],http://www.uniprot.org/uniprot/O75936,1,0,breast_cancer,O75936,BBOX1
+779037,TRKIIIKNFD,prolactin-inducible protein precursor [Homo sapiens],http://www.uniprot.org/uniprot/P12273,1,0,breast_cancer,P12273,PIP
+877017,EEYLVPQAF,Receptor tyrosine-protein kinase erbB-4,http://www.uniprot.org/uniprot/Q15303,2,0,breast_cancer,Q15303,ERBB4
+915090,AVNALQSVY,"metallocarboxypeptidase A6, partial [Homo sapiens]",http://www.uniprot.org/uniprot/Q8N4T0,1,0,breast_cancer,Q8N4T0,CPA6
+915739,GQKDGFYLY,Cas-Br-M (murine) ecotropic retroviral transforming sequence c [Homo sapiens],http://www.uniprot.org/uniprot/Q9ULV8,1,0,breast_cancer,Q9ULV8,CBLC
+915815,HMENGGDHRY,tripartite motif-containing protein 29 isoform X3 [Homo sapiens],http://www.uniprot.org/uniprot/Q14134,1,0,breast_cancer,Q14134,TRIM29
+916565,MLNHLYFY + OX(M1),"metallocarboxypeptidase A6, partial [Homo sapiens]",http://www.uniprot.org/uniprot/Q8N4T0,1,0,breast_cancer,Q8N4T0,CPA6
+917256,RYMKIIEKSGY + OX(M3),AP-1 complex subunit mu-2 isoform 2 [Homo sapiens],http://www.uniprot.org/uniprot/Q9Y6Q5,1,0,breast_cancer,Q9Y6Q5,AP1M2
+917257,RYMKIIEKSGY,AP-1 complex subunit mu-2 isoform 2 [Homo sapiens],http://www.uniprot.org/uniprot/Q9Y6Q5,1,0,breast_cancer,Q9Y6Q5,AP1M2
+917459,SGLKGDLAGRY,"creatine kinase U-type, mitochondrial isoform 2 [Homo sapiens]",http://www.uniprot.org/uniprot/P12532-2,1,0,breast_cancer,P12532,CKMT1A
+917491,SIKWCKNSY,"pro-neuregulin-3, membrane-bound isoform isoform 2 [Homo sapiens]",http://www.uniprot.org/uniprot/P56975,1,0,breast_cancer,P56975,NRG3
+917713,SVLSQFSPHFY,forkhead box L1 [Homo sapiens],http://www.uniprot.org/uniprot/Q12951,1,0,breast_cancer,Q12951,FOXI1
+917968,VFLPDNGAFF,calcium permeable stress-gated cation channel 1 [Homo sapiens],http://www.uniprot.org/uniprot/Q9P1W3,1,0,breast_cancer,Q9P1W3,TMEM63C
+917969,VFLSGMPEL + OX(M6),AP-1 complex subunit mu-2 isoform 2 [Homo sapiens],http://www.uniprot.org/uniprot/Q9Y6Q5,1,0,breast_cancer,Q9Y6Q5,AP1M2
+918061,VPERNVVIW,AP-1 complex subunit mu-2 isoform 2 [Homo sapiens],http://www.uniprot.org/uniprot/Q9Y6Q5,1,0,breast_cancer,Q9Y6Q5,AP1M2
+918078,VRACPSSKM + OX(M9),receptor tyrosine-protein kinase erbB-4 isoform X8 [Homo sapiens],http://www.uniprot.org/uniprot/Q15303,1,0,breast_cancer,Q15303,ERBB4
+923349,GITAVLVAAV,Ly6/PLAUR domain-containing protein 8,http://www.uniprot.org/uniprot/Q6UX82,1,0,breast_cancer,Q6UX82,LYPD8
+942482,TLFEHLPHI,Growth factor receptor-bound protein 14,http://www.uniprot.org/uniprot/Q14449,2,0,breast_cancer,Q14449,GRB14
+1085731,NFPTLSVQP,Terminal nucleotidyltransferase 5B,http://www.uniprot.org/uniprot/Q96A09,1,0,breast_cancer,Q96A09,TENT5B
+1122552,VQVVRSTL,Terminal nucleotidyltransferase 5B,http://www.uniprot.org/uniprot/Q96A09,1,0,breast_cancer,Q96A09,TENT5B
+1241019,KIPVSAFL,Anterior gradient protein 2 homolog,http://www.uniprot.org/uniprot/O95994,1,0,breast_cancer,O95994,AGR2
+1302968,YAYEPADTALL,Anterior gradient protein 2 homolog,http://www.uniprot.org/uniprot/O95994,1,0,breast_cancer,O95994,AGR2
+1307572,YVTPVQPLL,Terminal nucleotidyltransferase 5B,http://www.uniprot.org/uniprot/Q96A09,1,0,breast_cancer,Q96A09,TENT5B
+1545979,ENSASIVMV,Receptor-type tyrosine-protein phosphatase T,http://www.uniprot.org/uniprot/O14522,1,0,breast_cancer,O14522,PTPRT
+1548248,ILTDISSSL,Homeobox protein DLX-3,http://www.uniprot.org/uniprot/O60479,1,0,breast_cancer,O60479,DLX3
+1548299,IPGDPVPISI,PGC-1 and ERR-induced regulator in muscle protein 1,http://www.uniprot.org/uniprot/Q5SV97,1,0,breast_cancer,Q5SV97,PERM1
+1549314,LEDKVAEIL,Maestro heat-like repeat-containing protein family member 2A,http://www.uniprot.org/uniprot/A6NES4,1,0,breast_cancer,A6NES4,MROH2A
+1550082,LSIGLSVTLG,Aquaporin-5,http://www.uniprot.org/uniprot/P55064,1,0,breast_cancer,P55064,AQP5
+1550305,LVYQFVHPI,SAM pointed domain-containing Ets transcription factor,http://www.uniprot.org/uniprot/O95238,3,0,breast_cancer,O95238,SPDEF
+1552961,SESSDTEL,Pituitary homeobox 1,http://www.uniprot.org/uniprot/P78337,1,0,breast_cancer,P78337,PITX1
+1553361,SLEQLMESL,Maestro heat-like repeat-containing protein family member 2A,http://www.uniprot.org/uniprot/A6NES4,1,0,breast_cancer,A6NES4,MROH2A
+1553421,SLLALPQDLQA,Claudin-6,http://www.uniprot.org/uniprot/P56747,2,0,breast_cancer,P56747,CLDN6
+1555276,VITAALLGT,Calcium permeable stress-gated cation channel 1,http://www.uniprot.org/uniprot/Q9P1W3,1,0,breast_cancer,Q9P1W3,TMEM63C
+1609456,KEAYVQKL,Terminal nucleotidyltransferase 5B,http://www.uniprot.org/uniprot/Q96A09,1,0,breast_cancer,Q96A09,TENT5B
+1875752,AEQFVLLNL,Anterior gradient protein 2 homolog,http://www.uniprot.org/uniprot/O95994,1,0,breast_cancer,O95994,AGR2
+1879596,AVVPNIPNL,Rho GTPase-activating protein 40,http://www.uniprot.org/uniprot/Q5TG30,1,0,breast_cancer,Q5TG30,ARHGAP40
+1886628,ENKEIQKL,Anterior gradient protein 2 homolog,http://www.uniprot.org/uniprot/O95994,1,0,breast_cancer,O95994,AGR2
+1891071,GAHGDAVIL,Aflatoxin B1 aldehyde reductase member 3,http://www.uniprot.org/uniprot/O95154,1,0,breast_cancer,O95154,AKR7A3
+1893700,GLDMEGILRV + OX(M4),Rho GTPase-activating protein 40,http://www.uniprot.org/uniprot/Q5TG30,1,0,breast_cancer,Q5TG30,ARHGAP40
+1894117,GLVDGVFLV,Growth factor receptor-bound protein 14,http://www.uniprot.org/uniprot/Q14449,1,0,breast_cancer,Q14449,GRB14
+1899831,ILPEPNRNAL,Rho GTPase-activating protein 40,http://www.uniprot.org/uniprot/Q5TG30,1,0,breast_cancer,Q5TG30,ARHGAP40
+1900496,IPVSAFLL,Anterior gradient protein 2 homolog,http://www.uniprot.org/uniprot/O95994,1,0,breast_cancer,O95994,AGR2
+1903256,KEIQKLAEQF,Anterior gradient protein 2 homolog,http://www.uniprot.org/uniprot/O95994,1,0,breast_cancer,O95994,AGR2
+1906114,KLAEQFVLL,Anterior gradient protein 2 homolog,http://www.uniprot.org/uniprot/O95994,1,0,breast_cancer,O95994,AGR2
+1912063,LLLPPDTVSRTGL,SAM pointed domain-containing Ets transcription factor,http://www.uniprot.org/uniprot/O95238,1,0,breast_cancer,O95238,SPDEF
+1915279,MEKIPVSAF + OX(M1),Anterior gradient protein 2 homolog,http://www.uniprot.org/uniprot/O95994,1,0,breast_cancer,O95994,AGR2
+1915280,MEKIPVSAF,Anterior gradient protein 2 homolog,http://www.uniprot.org/uniprot/O95994,1,0,breast_cancer,O95994,AGR2
+1929982,SEEEHTQVP,Placenta-specific protein 1,http://www.uniprot.org/uniprot/Q9HBJ0,1,0,breast_cancer,Q9HBJ0,PLAC1
+1931530,SIPNPFPEL,Growth factor receptor-bound protein 14,http://www.uniprot.org/uniprot/Q14449,1,0,breast_cancer,Q14449,GRB14
+1932504,SMFSAPSSI + OX(M2),Pituitary homeobox 1,http://www.uniprot.org/uniprot/P78337,1,0,breast_cancer,P78337,PITX1
+1935451,TEAITEAAVA,Maestro heat-like repeat-containing protein family member 2A,http://www.uniprot.org/uniprot/A6NES4,1,0,breast_cancer,A6NES4,MROH2A
+1935732,TELQGHVL,Phosphatidylinositol 3-kinase C2 domain-containing subunit gamma,http://www.uniprot.org/uniprot/O75747,1,0,breast_cancer,O75747,PIK3C2G
+2001585,DDITWVQTY,Anterior gradient protein 3,http://www.uniprot.org/uniprot/Q8TD06,1,0,breast_cancer,Q8TD06,AGR3
+2001588,DECPHSQAL,Anterior gradient protein 2 homolog,http://www.uniprot.org/uniprot/O95994,1,0,breast_cancer,O95994,AGR2
+2002227,KSFTFFNSM,Pituitary homeobox 1,http://www.uniprot.org/uniprot/P78337,1,0,breast_cancer,P78337,PITX1
+2002791,SLKGYPSL,Tripartite motif-containing protein 29,http://www.uniprot.org/uniprot/Q14134,1,0,breast_cancer,Q14134,TRIM29
+2002839,SQSPKAQPQTW,Tripartite motif-containing protein 29,http://www.uniprot.org/uniprot/Q14134,1,0,breast_cancer,Q14134,TRIM29
+2003084,TSRVWEYSSSIQNSDNDLPVVQGSSSF,Tripartite motif-containing protein 29,http://www.uniprot.org/uniprot/Q14134,1,0,breast_cancer,Q14134,TRIM29
+2003319,YVNKGNGIGSNEAP,Tripartite motif-containing protein 29,http://www.uniprot.org/uniprot/Q14134,1,0,breast_cancer,Q14134,TRIM29
+2234437,QDNTRKIIIKNFD + PYRE(Q1),prolactin-inducible protein precursor [Homo sapiens],http://www.uniprot.org/uniprot/P12273,1,0,breast_cancer,P12273,PIP
+475259,AEQGPAATA,Terminal nucleotidyltransferase 5B,http://www.uniprot.org/uniprot/Q96A09,2,0,colorectal_cancer,Q96A09,TENT5B
+477608,EGTAAAAAA,"pro-neuregulin-3, membrane-bound isoform isoform 2",http://www.uniprot.org/uniprot/P56975,1,0,colorectal_cancer,P56975,NRG3
+863968,ELSVTTNTPVPQ,Maestro heat-like repeat-containing protein family member 2A,http://www.uniprot.org/uniprot/A6NES4,1,0,colorectal_cancer,A6NES4,MROH2A
+863970,EMEYFITEGGK,PI3-kinase [Homo sapiens],http://www.uniprot.org/uniprot/O75747,1,0,colorectal_cancer,O75747,PIK3C2G
+864963,MLLQQNVDVF,breast cancer antigen NY-BR-1,http://www.uniprot.org/uniprot/Q9BXX3,1,0,colorectal_cancer,Q9BXX3,ANKRD30A
+865340,SEMEYFITEGGK,PI3-kinase [Homo sapiens],http://www.uniprot.org/uniprot/O75747,1,0,colorectal_cancer,O75747,PIK3C2G
+865558,TSEMEYFITEGGK,PI3-kinase [Homo sapiens],http://www.uniprot.org/uniprot/O75747,1,0,colorectal_cancer,O75747,PIK3C2G
+915463,ESAQKILYY,G-protein coupled receptor 87 [Homo sapiens],http://www.uniprot.org/uniprot/Q9BY21,1,0,colorectal_cancer,Q9BY21,GPR87
+915552,FLYKTIEV,AP-1 complex subunit mu-2 isoform 2 [Homo sapiens],http://www.uniprot.org/uniprot/Q9Y6Q5,1,0,colorectal_cancer,Q9Y6Q5,AP1M2
+915859,IESVIEKF,AP-1 complex subunit mu-2 isoform 2 [Homo sapiens],http://www.uniprot.org/uniprot/Q9Y6Q5,1,0,colorectal_cancer,Q9Y6Q5,AP1M2
+915940,IRDNFVIVY,AP-1 complex subunit mu-2,http://www.uniprot.org/uniprot/Q9Y6Q5,3,0,colorectal_cancer,Q9Y6Q5,AP1M2
+916391,LGDQIGGPA,delta-like protein 3 isoform 2 precursor [Homo sapiens],http://www.uniprot.org/uniprot/Q9NYJ7,1,0,colorectal_cancer,Q9NYJ7,DLL3
+1273952,RYSDSVGRVSF,Calpain-13,http://www.uniprot.org/uniprot/Q6MZZ7,1,0,colorectal_cancer,Q6MZZ7,CAPN13
+1715196,RDEDKKNHY,Voltage-dependent calcium channel gamma-4 subunit,http://www.uniprot.org/uniprot/Q9UBN1,1,0,colorectal_cancer,Q9UBN1,CACNG4
+1715205,REEEGALAP,AP-1 complex subunit mu-2,http://www.uniprot.org/uniprot/Q9Y6Q5,1,0,colorectal_cancer,Q9Y6Q5,AP1M2
+1715601,SLETLHQLAA,BMP/retinoic acid-inducible neural-specific protein 2,http://www.uniprot.org/uniprot/Q9C0B6,1,0,colorectal_cancer,Q9C0B6,BRINP2
+2229147,RYVNNYTNSF,Tripartite motif-containing protein 29,http://www.uniprot.org/uniprot/Q14134,1,0,colorectal_cancer,Q14134,TRIM29
+2270581,FMLNNDVCV,Placenta-specific protein 1,http://www.uniprot.org/uniprot/Q9HBJ0,0,0,colorectal_cancer,Q9HBJ0,PLAC1
+2270596,HAYQFTYRV,Placenta-specific protein 1,http://www.uniprot.org/uniprot/Q9HBJ0,0,0,colorectal_cancer,Q9HBJ0,PLAC1
+2347557,ALELFR,Myoglobin,http://www.uniprot.org/uniprot/P02144,1,0,colorectal_cancer,P02144,MB
+777793,RYDEHAYKW,Gamma-butyrobetaine dioxygenase,http://www.uniprot.org/uniprot/O75936,1,0,kidney_cancer,O75936,BBOX1
+2366177,RYACLVTLH,Terminal nucleotidyltransferase 5B,http://www.uniprot.org/uniprot/Q96A09,1,0,kidney_cancer,Q96A09,TENT5B
+473586,YLDDPTNSWY,Homeobox protein DLX-3,http://www.uniprot.org/uniprot/O60479,1,0,lung_cancer,O60479,DLX3
+474051,YSAPQHDYY,Homeobox protein DLX-3,http://www.uniprot.org/uniprot/O60479,1,0,lung_cancer,O60479,DLX3
+475202,AENKEIQKL,Anterior gradient protein 2 homolog,http://www.uniprot.org/uniprot/O95994,4,0,lung_cancer,O95994,AGR2
+507598,QALPWVRYI,AP-1 complex subunit mu-2,http://www.uniprot.org/uniprot/Q9Y6Q5,1,0,lung_cancer,Q9Y6Q5,AP1M2
+562778,EIRGGGLLKY,Terminal nucleotidyltransferase 5B,http://www.uniprot.org/uniprot/Q96A09,1,0,lung_cancer,Q96A09,TENT5B
+613589,AAKKPPVTF,Tripartite motif-containing protein 29,http://www.uniprot.org/uniprot/Q14134,1,0,lung_cancer,Q14134,TRIM29
+723621,RVFIGNLNTA,RNA-binding Raly-like protein,http://www.uniprot.org/uniprot/Q86SE5,1,0,lung_cancer,Q86SE5,RALYL
+915463,ESAQKILYY,G-protein coupled receptor 87,http://www.uniprot.org/uniprot/Q9BY21,1,0,lung_cancer,Q9BY21,GPR87
+915940,IRDNFVIVY,AP-1 complex subunit mu-2,http://www.uniprot.org/uniprot/Q9Y6Q5,1,0,lung_cancer,Q9Y6Q5,AP1M2
+934741,DHDSSEYLL,Voltage-dependent calcium channel gamma-4 subunit,http://www.uniprot.org/uniprot/Q9UBN1,1,0,lung_cancer,Q9UBN1,CACNG4
+953158,AEIQEELNQRW,Ras association domain-containing protein 10,http://www.uniprot.org/uniprot/A6NK89,2,0,lung_cancer,A6NK89,RASSF10
+953504,DQLIWTQTY,AGR2 [Homo sapiens],http://www.uniprot.org/uniprot/O95994,2,0,lung_cancer,O95994,AGR2
+953878,ETILGGLGL,aflatoxin B1 aldehyde reductase 2 [Homo sapiens],http://www.uniprot.org/uniprot/O95154,1,0,lung_cancer,O95154,AKR7A3
+954142,GAGAGEDARSDDSSS,kallikrein-5 preproprotein [Homo sapiens],http://www.uniprot.org/uniprot/Q9Y337,1,0,lung_cancer,Q9Y337,KLK5
+959074,AKKPPVTF,Tripartite motif-containing protein 29,http://www.uniprot.org/uniprot/Q14134,1,0,lung_cancer,Q14134,TRIM29
+1091277,AVVDVIREL,Prolactin-inducible protein,http://www.uniprot.org/uniprot/P12273,1,0,lung_cancer,P12273,PIP
+1203276,EEIRGGGLLKY,Terminal nucleotidyltransferase 5B,http://www.uniprot.org/uniprot/Q96A09,1,0,lung_cancer,Q96A09,TENT5B
+1302967,YAYEPADTAL,Anterior gradient protein 2 homolog,http://www.uniprot.org/uniprot/O95994,1,0,lung_cancer,O95994,AGR2
+1330811,AFSLLSAAFY,Interleukin-20,http://www.uniprot.org/uniprot/Q9NYY1,1,0,lung_cancer,Q9NYY1,IL20
+1332398,IQETIQANS,Kallikrein-5,http://www.uniprot.org/uniprot/Q9Y337,1,0,lung_cancer,Q9Y337,KLK5
+1333919,TCSDVVRVL + CYSTL(C2),Ras association domain-containing protein 10,http://www.uniprot.org/uniprot/A6NK89,1,0,lung_cancer,A6NK89,RASSF10
+1333962,TIEILKVE,Prolactin-inducible protein,http://www.uniprot.org/uniprot/P12273,1,0,lung_cancer,P12273,PIP
+1625501,AAFPHKIIF,Serine protease inhibitor Kazal-type 13,http://www.uniprot.org/uniprot/Q1W4C9,1,0,lung_cancer,Q1W4C9,SPINK13
+1625827,DIPKSVRPNDE,Prolactin-inducible protein,http://www.uniprot.org/uniprot/P12273,1,0,lung_cancer,P12273,PIP
+1625984,ESGQQMFQGVK + OX(M6),Kallikrein-5,http://www.uniprot.org/uniprot/Q9Y337,1,0,lung_cancer,Q9Y337,KLK5
+1627528,VPTDLVDS,"Pro-neuregulin-3, membrane-bound isoform",http://www.uniprot.org/uniprot/P56975,1,0,lung_cancer,P56975,NRG3
+1915280,MEKIPVSAF,Anterior gradient protein 2 homolog,http://www.uniprot.org/uniprot/O95994,1,0,lung_cancer,O95994,AGR2
+2234434,QDNTRKIIIK + PYRE(Q1),Prolactin-inducible protein,http://www.uniprot.org/uniprot/P12273,1,0,lung_cancer,P12273,PIP
+2234435,QDNTRKIIIKN + PYRE(Q1),Prolactin-inducible protein,http://www.uniprot.org/uniprot/P12273,1,0,lung_cancer,P12273,PIP
+2395609,IAFQYGITDLR,"Myosin-binding protein C, slow-type",http://www.uniprot.org/uniprot/Q00872,1,0,lung_cancer,Q00872,MYBPC1
+2395664,ILDPAYQVDK,"Myosin-binding protein C, slow-type",http://www.uniprot.org/uniprot/Q00872,1,0,lung_cancer,Q00872,MYBPC1
+2396720,MSASAVF,AP-1 complex subunit mu-2,http://www.uniprot.org/uniprot/Q9Y6Q5,1,0,lung_cancer,Q9Y6Q5,AP1M2
+2396916,NEAGEAHASIK,"Myosin-binding protein C, slow-type",http://www.uniprot.org/uniprot/Q00872,1,0,lung_cancer,Q00872,MYBPC1
+2396931,NGQEIRPSTK,"Myosin-binding protein C, slow-type",http://www.uniprot.org/uniprot/Q00872,1,0,lung_cancer,Q00872,MYBPC1
+2397200,RQYYKKGIIRK,SAM pointed domain-containing Ets transcription factor,http://www.uniprot.org/uniprot/O95238,1,0,lung_cancer,O95238,SPDEF
+2397204,RSFPHLSK,Uncharacterized protein C1orf226,http://www.uniprot.org/uniprot/A1L170,1,0,lung_cancer,A1L170,C1orf226
+2397615,VAIVDDPRYR,"Myosin-binding protein C, slow-type",http://www.uniprot.org/uniprot/Q00872,1,0,lung_cancer,Q00872,MYBPC1
+2397841,YYSQPILVK,"Myosin-binding protein C, slow-type",http://www.uniprot.org/uniprot/Q00872,1,0,lung_cancer,Q00872,MYBPC1
+470111,RPRPSTDVRAL,protein FAM46B,http://www.uniprot.org/uniprot/Q96A09,1,0,ovarian_cancer,Q96A09,TENT5B
+761453,IWIESVIEKF,AP-1 complex subunit mu-2,http://www.uniprot.org/uniprot/Q9Y6Q5,1,0,ovarian_cancer,Q9Y6Q5,AP1M2
+1000484,ALLPLSPYL,V-set domain-containing T-cell activation inhibitor 1,http://www.uniprot.org/uniprot/Q7Z7D3,1,0,ovarian_cancer,Q7Z7D3,VTCN1
+1018449,HLSPDGQYVPR,Anterior gradient protein 2 homolog,http://www.uniprot.org/uniprot/O95994,1,0,ovarian_cancer,O95994,AGR2
+1031091,LPWAEFESL,E3 ubiquitin-protein ligase CBL-C,http://www.uniprot.org/uniprot/Q9ULV8,1,0,ovarian_cancer,Q9ULV8,CBLC
+1036960,PLLLPSPGGWKA,RBBP8 N-terminal-like protein,http://www.uniprot.org/uniprot/Q8NC74,1,0,ovarian_cancer,Q8NC74,RBBP8NL
+1056923,VDSVRRQFEF,Terminal nucleotidyltransferase 5B,http://www.uniprot.org/uniprot/Q96A09,1,0,ovarian_cancer,Q96A09,TENT5B
+1060217,VYSFLYKTI,AP-1 complex subunit mu-2,http://www.uniprot.org/uniprot/Q9Y6Q5,1,0,ovarian_cancer,Q9Y6Q5,AP1M2
+1307572,YVTPVQPLL,protein FAM46B,http://www.uniprot.org/uniprot/Q96A09,1,0,ovarian_cancer,Q96A09,TENT5B
+1922426,QTAPYGLGNPPR,endothelin-2 isoform 1 preproprotein [Homo sapiens],http://www.uniprot.org/uniprot/P20800,1,0,ovarian_cancer,P20800,EDN2
+1928951,RVLFELTGRSK,AP-1 complex subunit mu-2 isoform 2 [Homo sapiens],http://www.uniprot.org/uniprot/Q9Y6Q5,1,0,ovarian_cancer,Q9Y6Q5,AP1M2
+1933351,SPRGSEEYYSF,C1orf172 protein [Homo sapiens],http://www.uniprot.org/uniprot/Q8NAX2,1,0,ovarian_cancer,Q8NAX2,KDF1
+1933395,SPRVPPLSL,KLRG2 protein [Homo sapiens],http://www.uniprot.org/uniprot/A4D1S0,1,0,ovarian_cancer,A4D1S0,KLRG2
+613589,AAKKPPVTF,Tripartite motif-containing protein 29,http://www.uniprot.org/uniprot/Q14134,1,0,pancreatic_cancer,Q14134,TRIM29
+765758,TVSGIQVRY,AP-1 complex subunit mu-2,http://www.uniprot.org/uniprot/Q9Y6Q5,1,0,pancreatic_cancer,Q9Y6Q5,AP1M2
+1000484,ALLPLSPYL,V-set domain-containing T-cell activation inhibitor 1,http://www.uniprot.org/uniprot/Q7Z7D3,1,0,pancreatic_cancer,Q7Z7D3,VTCN1
+1002372,ASHLTPAVY,"Creatine kinase U-type, mitochondrial",http://www.uniprot.org/uniprot/P12532,1,0,pancreatic_cancer,P12532,CKMT1A
+1119948,TQKNFNNLY,Tripartite motif-containing protein 29,http://www.uniprot.org/uniprot/Q14134,1,0,pancreatic_cancer,Q14134,TRIM29
+1230875,IEIEDEAEKW,Tripartite motif-containing protein 29,http://www.uniprot.org/uniprot/Q14134,1,0,pancreatic_cancer,Q14134,TRIM29
+1302967,YAYEPADTAL,Anterior gradient protein 2 homolog,http://www.uniprot.org/uniprot/O95994,1,0,pancreatic_cancer,O95994,AGR2
+2227224,ALYSGYVF,"cDNA FLJ37707 fis, clone BRHIP2017642, moderately similar to RNA-binding protein Raly",http://www.uniprot.org/uniprot/B3KT61,1,0,pancreatic_cancer,B3KT61,RALYL
+2227439,DLSRNFIER,Tripartite motif-containing protein 29,http://www.uniprot.org/uniprot/Q14134,1,0,pancreatic_cancer,Q14134,TRIM29
+2227515,DVAMSKIEHF,AP-1 complex subunit mu-2,http://www.uniprot.org/uniprot/Q9Y6Q5,1,0,pancreatic_cancer,Q9Y6Q5,AP1M2
+2227952,GLSDGEWQLVLNVWGK,Myoglobin,http://www.uniprot.org/uniprot/P02144,1,0,pancreatic_cancer,P02144,MB
+2228822,NYTSRVWEY,Tripartite motif-containing protein 29,http://www.uniprot.org/uniprot/Q14134,1,0,pancreatic_cancer,Q14134,TRIM29
+2229757,VTFAEKGELRK,Tripartite motif-containing protein 29,http://www.uniprot.org/uniprot/Q14134,1,0,pancreatic_cancer,Q14134,TRIM29
+1089142,AILALLPAL,prostate stem cell antigen [Homo sapiens],http://www.uniprot.org/uniprot/O43653,0,0,prostate_cancer,O43653,PSCA
+1861000,ALLMAGLAL,prostate stem cell antigen [Homo sapiens],http://www.uniprot.org/uniprot/O43653,0,0,prostate_cancer,O43653,PSCA
+1861001,ALLPALGLL,prostate stem cell antigen [Homo sapiens],http://www.uniprot.org/uniprot/O43653,0,0,prostate_cancer,O43653,PSCA
+1861006,ALQPAAAIL,prostate stem cell antigen [Homo sapiens],http://www.uniprot.org/uniprot/O43653,0,0,prostate_cancer,O43653,PSCA
+1861007,ALQPGTALL,prostate stem cell antigen [Homo sapiens],http://www.uniprot.org/uniprot/O43653,0,0,prostate_cancer,O43653,PSCA
+1861874,LLALLMAGL,prostate stem cell antigen [Homo sapiens],http://www.uniprot.org/uniprot/O43653,0,0,prostate_cancer,O43653,PSCA
+1861892,LLLWGPGQL,prostate stem cell antigen [Homo sapiens],http://www.uniprot.org/uniprot/O43653,0,0,prostate_cancer,O43653,PSCA
+1862171,QLGEQCWTA,Prostate stem cell antigen,http://www.uniprot.org/uniprot/O43653,0,0,prostate_cancer,O43653,PSCA
+1862242,RIRAVGLLTV,prostate stem cell antigen [Homo sapiens],http://www.uniprot.org/uniprot/O43653,0,0,prostate_cancer,O43653,PSCA
+1862858,CVDDSQDYYV,Prostate stem cell antigen,http://www.uniprot.org/uniprot/O43653,0,0,prostate_cancer,O43653,PSCA
+1862872,DYYVGKKNI,Prostate stem cell antigen,http://www.uniprot.org/uniprot/O43653,0,0,prostate_cancer,O43653,PSCA
+1862892,KAQVSNEDCL,Prostate stem cell antigen,http://www.uniprot.org/uniprot/O43653,0,0,prostate_cancer,O43653,PSCA
+1862897,LLALLPALGL,prostate stem cell antigen,http://www.uniprot.org/uniprot/O43653,0,0,prostate_cancer,O43653,PSCA
+1862898,LLCYSCKAQV,Prostate stem cell antigen,http://www.uniprot.org/uniprot/O43653,0,0,prostate_cancer,O43653,PSCA
+1862948,VLLALLMAGL,prostate stem cell antigen [Homo sapiens],http://www.uniprot.org/uniprot/O43653,0,0,prostate_cancer,O43653,PSCA
+110159,YYWPRPRRY,G antigen 12H,http://www.uniprot.org/uniprot/A6NDE8,1,0,skin_cancer,A6NDE8,GAGE12H
+176063,KSFPGGKEY,"Adaptor-related protein complex 1, mu 2 subunit",http://www.uniprot.org/uniprot/Q9Y6Q5-2,3,0,skin_cancer,Q9Y6Q5,AP1M2
+446014,KTKEGVLYV,beta-synuclein isoform 2,http://www.uniprot.org/uniprot/Q16143,2,0,skin_cancer,Q16143,SNCB
+470111,RPRPSTDVRAL,protein FAM46B,http://www.uniprot.org/uniprot/Q96A09,1,0,skin_cancer,Q96A09,TENT5B
+542377,GLLGFVRQV,receptor protein tyrosine phosphatase,http://www.uniprot.org/uniprot/O14522,1,0,skin_cancer,O14522,PTPRT
+542805,IGNLNTAIVK,RNA-binding Raly-like protein isoform 3,http://www.uniprot.org/uniprot/Q86SE5,1,0,skin_cancer,Q86SE5,RALYL
+543764,LLGFVRQV,receptor protein tyrosine phosphatase,http://www.uniprot.org/uniprot/O14522,1,0,skin_cancer,O14522,PTPRT
+545392,SPRMSGLL,delta-like protein 3 isoform 2 precursor,http://www.uniprot.org/uniprot/Q9NYJ7,1,0,skin_cancer,Q9NYJ7,DLL3
+545393,SPRMSGLLSQT,delta-like protein 3 isoform 2 precursor,http://www.uniprot.org/uniprot/Q9NYJ7,2,0,skin_cancer,Q9NYJ7,DLL3
+565836,TPAIIMNTI,calcium permeable stress-gated cation channel 1,http://www.uniprot.org/uniprot/Q9P1W3,1,0,skin_cancer,Q9P1W3,TMEM63C
+702572,EHDAVSAAF,achaete-scute homolog 1,http://www.uniprot.org/uniprot/P50553,1,0,skin_cancer,P50553,ASCL1
+726169,SQLSLESTV,"RIMS4 protein, partial [Homo sapiens]",http://www.uniprot.org/uniprot/Q9H426,1,0,skin_cancer,Q9H426,RIMS4
+845226,IGPMRPEQF,G antigen 12H,http://www.uniprot.org/uniprot/A6NDE8,1,0,skin_cancer,A6NDE8,GAGE12H
+884485,TEAEQQQLI,"creatine kinase U-type, mitochondrial isoform 2 [Homo sapiens]",http://www.uniprot.org/uniprot/P12532-2,1,0,skin_cancer,P12532,CKMT1A
+915090,AVNALQSVY,Carboxypeptidase A6,http://www.uniprot.org/uniprot/Q8N4T0,1,0,skin_cancer,Q8N4T0,CPA6
+923349,GITAVLVAAV,ly6/PLAUR domain-containing protein 8 preproprotein [Homo sapiens],http://www.uniprot.org/uniprot/Q6UX82,1,0,skin_cancer,Q6UX82,LYPD8
+923550,MTDPSKNLGY,BMP/retinoic acid-inducible neural-specific protein 2 isoform X2 [Homo sapiens],http://www.uniprot.org/uniprot/Q9C0B6,1,0,skin_cancer,Q9C0B6,BRINP2
+1362594,LPQKNLLRL,Rho GTPase-activating protein 40,http://www.uniprot.org/uniprot/Q5TG30,1,0,skin_cancer,Q5TG30,ARHGAP40
+1902440,KDSRPKLPQ,AGR2,http://www.uniprot.org/uniprot/O95994,1,0,skin_cancer,O95994,AGR2
+2234737,QGLHSLSAVSIL + PYRE(Q1),unnamed protein product [Homo sapiens],http://www.uniprot.org/uniprot/Q9C0B6-2,1,0,skin_cancer,Q9C0B6,BRINP2
+32410,KMVELVHFL,Melanoma-associated antigen 2,http://www.uniprot.org/uniprot/P43356,0,0,breast_cancer,P43356,MAGEA2
+32410,KMVELVHFL,Melanoma-associated antigen 2,http://www.uniprot.org/uniprot/P43356,0,0,breast_cancer,P43356,MAGEA2B
+95091,GVYDGREHTV,MAGE-X2,http://www.uniprot.org/uniprot/P43358,2,0,breast_cancer,P43358,MAGEA4
+240720,VVTGNMGSNDKVGDF + OX(M6),Desmoglein-1,http://www.uniprot.org/uniprot/Q02413,1,0,breast_cancer,Q02413,DSG1
+419790,IVDGNHRLTL,SPTBN2 protein,http://www.uniprot.org/uniprot/O15020,1,0,breast_cancer,O15020,SPTBN2
+425667,ITFGERFEY,cytochrome P450 epoxygenase,http://www.uniprot.org/uniprot/P51589,1,0,breast_cancer,P51589,CYP2J2
+426875,REAVQKKTF,"Spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,3,0,breast_cancer,O15020,SPTBN2
+429187,AAGPPISEGKY,Corneodesmosin,http://www.uniprot.org/uniprot/Q15517,2,0,breast_cancer,Q15517,CDSN
+432242,SKGKIYPVGY,epidermal granular cell layer-specific,http://www.uniprot.org/uniprot/Q15517,3,0,breast_cancer,Q15517,CDSN
+436139,AEHERELAL,"Spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,1,0,breast_cancer,O15020,SPTBN2
+436808,DEKSIITY,"Spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,2,0,breast_cancer,O15020,SPTBN2
+437633,GILNPSQPGQSSSSSQ,Corneodesmosin,http://www.uniprot.org/uniprot/Q15517,1,0,breast_cancer,Q15517,CDSN
+438495,KEIDKEEHL,Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,1,0,breast_cancer,Q96JG8,MAGED4
+438495,KEIDKEEHL,Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,1,0,breast_cancer,Q96JG8,MAGED4B
+441632,VVTGNMGSNDKVGDF,Desmoglein-1,http://www.uniprot.org/uniprot/Q02413,1,0,breast_cancer,Q02413,DSG1
+445544,KLLDEVTYL,cytochrome P450 epoxygenase,http://www.uniprot.org/uniprot/P51589,3,0,breast_cancer,P51589,CYP2J2
+452457,ALSIQNYHL,"Spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,2,0,breast_cancer,O15020,SPTBN2
+455106,KEIDKEEHLY,Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,1,0,breast_cancer,Q96JG8,MAGED4
+455106,KEIDKEEHLY,Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,1,0,breast_cancer,Q96JG8,MAGED4B
+460845,YLLEKSRVV,MYO5B variant protein,http://www.uniprot.org/uniprot/Q9ULV0,2,0,breast_cancer,Q9ULV0,MYO5B
+505372,FVYGEPREL,cancer-testis antigen CT10,http://www.uniprot.org/uniprot/Q9UBF1,2,0,breast_cancer,Q9UBF1,MAGEC2
+540911,AEMLERVIKNY,MAGE-X2,http://www.uniprot.org/uniprot/P43358,1,0,breast_cancer,P43358,MAGEA4
+540934,AETSYVKVL,MAGE-X2,http://www.uniprot.org/uniprot/P43358,1,0,breast_cancer,P43358,MAGEA4
+542270,GEVERAQSEY,"Spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,1,0,breast_cancer,O15020,SPTBN2
+543495,KVLEHVVRV,MAGE-X2,http://www.uniprot.org/uniprot/P43358,2,0,breast_cancer,P43358,MAGEA4
+545697,TLDEKVAEL,Melanoma-associated antigen C2,http://www.uniprot.org/uniprot/Q9UBF1,1,0,breast_cancer,Q9UBF1,MAGEC2
+552034,GILNPSQPGQSSSSSQTF,Corneodesmosin,http://www.uniprot.org/uniprot/Q15517,2,0,breast_cancer,Q15517,CDSN
+557176,VATDLDTGRPSTTVRY,Desmoglein-1,http://www.uniprot.org/uniprot/Q02413,1,0,breast_cancer,Q02413,DSG1
+572492,FSKMKALAV,SPTBN2 protein,http://www.uniprot.org/uniprot/O15020,2,0,breast_cancer,O15020,SPTBN2
+584068,IETSYVKVL,Melanoma-associated antigen 2,http://www.uniprot.org/uniprot/P43356,1,0,breast_cancer,P43356,MAGEA2
+584068,IETSYVKVL,Melanoma-associated antigen 2,http://www.uniprot.org/uniprot/P43356,1,0,breast_cancer,P43356,MAGEA2B
+588313,RETWLSENQRL,"Spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,1,0,breast_cancer,O15020,SPTBN2
+595662,GILNPSQPGQSSSSSQT,Corneodesmosin,http://www.uniprot.org/uniprot/Q15517,4,0,breast_cancer,Q15517,CDSN
+612610,TEKGNLEVL,"Spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,1,0,breast_cancer,O15020,SPTBN2
+631948,GTEIAASLLY,Glucosylceramide transporter ABCA12,http://www.uniprot.org/uniprot/Q86UK0,1,0,breast_cancer,Q86UK0,ABCA12
+753127,YPNVNVHNF,SPTBN2 protein [Homo sapiens],http://www.uniprot.org/uniprot/O15020,1,0,breast_cancer,O15020,SPTBN2
+765275,SVMSSNVSF,cancer-testis antigen CT10,http://www.uniprot.org/uniprot/Q9UBF1,1,0,breast_cancer,Q9UBF1,MAGEC2
+765325,SYQVIFQHF,probable cation-transporting ATPase 13A5 [Homo sapiens],http://www.uniprot.org/uniprot/Q4VNC0,2,0,breast_cancer,Q4VNC0,ATP13A5
+769997,ADLSGITGAR,alpha-1-antichymotrypsin,http://www.uniprot.org/uniprot/P01011,1,0,breast_cancer,P01011,SERPINA3
+770842,AVLDVFEEGTEASAATAVK,"alpha-1-antichymotrypsin precursor, partial [Homo sapiens]",http://www.uniprot.org/uniprot/P01011,1,0,breast_cancer,P01011,SERPINA3
+770961,DEELSCTVVELK + METH(C6),alpha-1-antichymotrypsin,http://www.uniprot.org/uniprot/P01011,1,0,breast_cancer,P01011,SERPINA3
+771388,DRGTHVDL,alpha-1-antichymotrypsin,http://www.uniprot.org/uniprot/P01011,1,0,breast_cancer,P01011,SERPINA3
+771646,DYNLNDILLQLGIEEAFTSK,alpha-1-antichymotrypsin,http://www.uniprot.org/uniprot/P01011,1,0,breast_cancer,P01011,SERPINA3
+771671,EALRKMGL,melanoma-associated antigen D4 isoform 3,http://www.uniprot.org/uniprot/Q96JG8,1,0,breast_cancer,Q96JG8,MAGED4
+771671,EALRKMGL,melanoma-associated antigen D4 isoform 3,http://www.uniprot.org/uniprot/Q96JG8,1,0,breast_cancer,Q96JG8,MAGED4B
+771706,EDVIETIKYD,"glycoprotein 330, partial",http://www.uniprot.org/uniprot/P98164,1,0,breast_cancer,P98164,LRP2
+771887,EIGELYLPK,alpha-1-antichymotrypsin,http://www.uniprot.org/uniprot/P01011,1,0,breast_cancer,P01011,SERPINA3
+772005,ELQLSMGNAMFVK,alpha-1-antichymotrypsin,http://www.uniprot.org/uniprot/P01011,1,0,breast_cancer,P01011,SERPINA3
+772055,EQLSLLDR,alpha-1-antichymotrypsin,http://www.uniprot.org/uniprot/P01011,1,0,breast_cancer,P01011,SERPINA3
+772373,FLRQMVAA,SPTBN2 protein,http://www.uniprot.org/uniprot/O15020,1,0,breast_cancer,O15020,SPTBN2
+773301,GTHVDLGLASANVDFAFSLYK,alpha-1-antichymotrypsin,http://www.uniprot.org/uniprot/P01011,1,0,breast_cancer,P01011,SERPINA3
+773344,GVYDGREHTVY,MAGE-X2,http://www.uniprot.org/uniprot/P43358,1,0,breast_cancer,P43358,MAGEA4
+773447,HPNSPLDEENLTQENQDR,alpha-1-antichymotrypsin,http://www.uniprot.org/uniprot/P01011,1,0,breast_cancer,P01011,SERPINA3
+773605,HTFVGIASF,calcium-activated chloride channel regulator 2 preproprotein,http://www.uniprot.org/uniprot/Q9UQC9,1,0,breast_cancer,Q9UQC9,CLCA2
+773845,IRIPTPVIHTKH,"creatine kinase U-type, mitochondrial isoform 2",http://www.uniprot.org/uniprot/P12532,1,0,breast_cancer,P12532,CKMT1B
+773929,ITLLSALVETR,alpha-1-antichymotrypsin,http://www.uniprot.org/uniprot/P01011,1,0,breast_cancer,P01011,SERPINA3
+774166,KLINDYVK,alpha-1-antichymotrypsin,http://www.uniprot.org/uniprot/P01011,1,0,breast_cancer,P01011,SERPINA3
+775134,LINDYVK,alpha-1-antichymotrypsin,http://www.uniprot.org/uniprot/P01011,1,0,breast_cancer,P01011,SERPINA3
+775150,LLAAGFCPA + CYSTL(C7),alpha-1-antichymotrypsin,http://www.uniprot.org/uniprot/P01011,1,0,breast_cancer,P01011,SERPINA3
+775151,LLAAGFCPA + SCM(C7),alpha-1-antichymotrypsin,http://www.uniprot.org/uniprot/P01011,1,0,breast_cancer,P01011,SERPINA3
+775464,LYGSEAFATDFQDSAAAK,alpha-1-antichymotrypsin,http://www.uniprot.org/uniprot/P01011,1,0,breast_cancer,P01011,SERPINA3
+775491,MEEVEAMLLPETLK + OX(M1),alpha-1-antichymotrypsin,http://www.uniprot.org/uniprot/P01011,1,0,breast_cancer,P01011,SERPINA3
+775620,MSLHHLTIPY + OX(M1),alpha-1-antichymotrypsin,http://www.uniprot.org/uniprot/P01011,1,0,breast_cancer,P01011,SERPINA3
+775621,MSLHHLTIPYFR + OX(M1),alpha-1-antichymotrypsin,http://www.uniprot.org/uniprot/P01011,1,0,breast_cancer,P01011,SERPINA3
+775623,MTLKWTSVL,UDP-glucuronosyltransferase 2B11 precursor [Homo sapiens],http://www.uniprot.org/uniprot/O75310,1,0,breast_cancer,O75310,UGT2B11
+775747,NLAVSQVVHK,alpha-1-antichymotrypsin,http://www.uniprot.org/uniprot/P01011,1,0,breast_cancer,P01011,SERPINA3
+776378,PVIQERHNGYD,"creatine kinase U-type, mitochondrial isoform 2",http://www.uniprot.org/uniprot/P12532,1,0,breast_cancer,P12532,CKMT1B
+777890,SEAEIHQSF,"alpha-1-antichymotrypsin precursor, partial [Homo sapiens]",http://www.uniprot.org/uniprot/P01011,1,0,breast_cancer,P01011,SERPINA3
+778146,SLLQGSPHL,Putative transcription factor Ovo-like 1,http://www.uniprot.org/uniprot/O14753,3,0,breast_cancer,O14753,OVOL1
+778976,TQNIFFMSKVTNPKQA,"alpha-1-antichymotrypsin precursor, partial [Homo sapiens]",http://www.uniprot.org/uniprot/P01011,1,0,breast_cancer,P01011,SERPINA3
+779112,TTPSVILSNV,Inter-alpha-trypsin inhibitor heavy chain H6,http://www.uniprot.org/uniprot/Q6UXX5,2,0,breast_cancer,Q6UXX5,ITIH6
+779575,VSSPPRNSL,"TDRD5 protein, partial [Homo sapiens]",http://www.uniprot.org/uniprot/Q8NAT2,1,0,breast_cancer,Q8NAT2,TDRD5
+847355,NAVGVYAGR,Melanoma-associated antigen C2,http://www.uniprot.org/uniprot/Q9UBF1,1,0,breast_cancer,Q9UBF1,MAGEC2
+915241,DPIGHVYIF,MAGEA6 [Homo sapiens],http://www.uniprot.org/uniprot/P43360,1,0,breast_cancer,P43360,MAGEA6
+915997,IYVPVSLGF,putative transcription factor Ovo-like 1 [Homo sapiens],http://www.uniprot.org/uniprot/O14753,1,0,breast_cancer,O14753,OVOL1
+916231,KTDIYVTSF,gamma-aminobutyric acid receptor subunit alpha-3 precursor [Homo sapiens],http://www.uniprot.org/uniprot/P34903,1,0,breast_cancer,P34903,GABRA3
+916419,LLLRNNPWF,Leucine-rich repeat transmembrane protein FLRT1,http://www.uniprot.org/uniprot/Q9NZU1,1,0,breast_cancer,Q9NZU1,FLRT1
+917120,RRVKEKKVV,homeobox protein Hox-C13 [Homo sapiens],http://www.uniprot.org/uniprot/P31276,1,0,breast_cancer,P31276,HOXC13
+917459,SGLKGDLAGRY,"creatine kinase U-type, mitochondrial isoform 2 [Homo sapiens]",http://www.uniprot.org/uniprot/P12532-2,1,0,breast_cancer,P12532,CKMT1B
+917514,SLFSGHANEF,BPI fold-containing family B member 2 precursor [Homo sapiens],http://www.uniprot.org/uniprot/Q8N4F0,1,0,breast_cancer,Q8N4F0,BPIFB2
+918273,YPVKEFEVY,cytochrome P450 4Z1 isoform X1 [Homo sapiens],http://www.uniprot.org/uniprot/Q86W10,2,0,breast_cancer,Q86W10,CYP4Z1
+940762,REVTVDTTL,Cytochrome P450 2J2,http://www.uniprot.org/uniprot/P51589,1,0,breast_cancer,P51589,CYP2J2
+955365,RGILNPSQPGQSSSSSQT,Corneodesmosin,http://www.uniprot.org/uniprot/Q15517,1,0,breast_cancer,Q15517,CDSN
+1002176,ARPEAPPAK,Homeobox protein Hox-D13,http://www.uniprot.org/uniprot/P35453,1,0,breast_cancer,P35453,HOXD13
+1031866,LSRNHLSSI,Leucine-rich repeat transmembrane protein FLRT1,http://www.uniprot.org/uniprot/Q9NZU1,2,0,breast_cancer,Q9NZU1,FLRT1
+1049879,SLIPHPFGV,Low-density lipoprotein receptor-related protein 2,http://www.uniprot.org/uniprot/P98164,1,0,breast_cancer,P98164,LRP2
+1058872,VPYTKVQL,Homeobox protein Hox-C13,http://www.uniprot.org/uniprot/P31276,1,0,breast_cancer,P31276,HOXC13
+1075389,ILFGISLREV,Melanoma-associated antigen C1,http://www.uniprot.org/uniprot/O60732,0,0,breast_cancer,O60732,MAGEC1
+1075429,KVVEFLAML,Isoform 2 of Melanoma-associated antigen C1,http://www.uniprot.org/uniprot/O60732,0,0,breast_cancer,O60732,MAGEC1
+1085112,KEQLIEKL,L-lactate dehydrogenase C chain,http://www.uniprot.org/uniprot/P07864,1,0,breast_cancer,P07864,LDHC
+1085180,KLPAQAIPCSLAW,Tudor domain-containing protein 5,http://www.uniprot.org/uniprot/Q8NAT2,1,0,breast_cancer,Q8NAT2,TDRD5
+1085614,LVFPTEVWT,Neurexin-1,http://www.uniprot.org/uniprot/Q9ULB1,1,0,breast_cancer,Q9ULB1,NRXN1
+1086755,THLLENLRG,Matrilin-4,http://www.uniprot.org/uniprot/O95460,1,0,breast_cancer,O95460,MATN4
+1104206,KEKKSAKDAL,"Spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,1,0,breast_cancer,O15020,SPTBN2
+1285772,TEMPGTLQA,"Spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,1,0,breast_cancer,O15020,SPTBN2
+1321926,"MMDLQHGSLF + OX(M1, M2)",L-lactate dehydrogenase C chain,http://www.uniprot.org/uniprot/P07864,1,0,breast_cancer,P07864,LDHC
+1336082,KMAELVHFL + OX(M2),Melanoma-associated antigen 12,http://www.uniprot.org/uniprot/P43365,1,0,breast_cancer,P43365,MAGEA12
+1342574,KVFQDLLYL,"Spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,1,0,breast_cancer,O15020,SPTBN2
+1354480,GLIDSKGYGI,"Glutamate receptor ionotropic, kainate 3",http://www.uniprot.org/uniprot/Q13003,1,0,breast_cancer,Q13003,GRIK3
+1359902,KQQAVSEEI,Sodium/hydrogen exchanger 2,http://www.uniprot.org/uniprot/Q9UBY0,1,0,breast_cancer,Q9UBY0,SLC9A2
+1543721,AATDVASRNDP,Protein-glutamine gamma-glutamyltransferase E,http://www.uniprot.org/uniprot/Q08188,1,0,breast_cancer,Q08188,TGM3
+1544598,AVDAVAAEL,"Spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,1,0,breast_cancer,O15020,SPTBN2
+1545028,DELSAQAEV,"Spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,1,0,breast_cancer,O15020,SPTBN2
+1548270,INDEKSLSH,Tudor domain-containing protein 5,http://www.uniprot.org/uniprot/Q8NAT2-1,1,0,breast_cancer,Q8NAT2,TDRD5
+1553730,SRTGKLTLKNKVTKEQY,Desmoglein-1,http://www.uniprot.org/uniprot/Q02413,1,0,breast_cancer,Q02413,DSG1
+1554547,TLNSNLLEI,Desmoglein-1,http://www.uniprot.org/uniprot/Q02413,1,0,breast_cancer,Q02413,DSG1
+1554820,TVDLGEAIL,HEPACAM family member 2,http://www.uniprot.org/uniprot/A8MVW5,1,0,breast_cancer,A8MVW5,HEPACAM2
+1554975,VAFGEGTEL,Pleckstrin homology domain-containing family S member 1,http://www.uniprot.org/uniprot/Q5SXH7,1,0,breast_cancer,Q5SXH7,PLEKHS1
+1555098,VEQTRAGSLL,Tudor domain-containing protein 5,http://www.uniprot.org/uniprot/Q8NAT2,1,0,breast_cancer,Q8NAT2,TDRD5
+1866878,KDLADELAL,L-lactate dehydrogenase C chain,http://www.uniprot.org/uniprot/P07864,1,0,breast_cancer,P07864,LDHC
+1877328,ALPERLEDL,"Spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,1,0,breast_cancer,O15020,SPTBN2
+1889010,FGDPKKL,Melanoma-associated antigen 6,http://www.uniprot.org/uniprot/P43360,1,0,breast_cancer,P43360,MAGEA6
+1889786,FLPGPHQTL,Cytochrome P450 2J2,http://www.uniprot.org/uniprot/P51589,1,0,breast_cancer,P51589,CYP2J2
+1892175,"GEMMDLQHGSL + OX(M3, M4)",L-lactate dehydrogenase C chain,http://www.uniprot.org/uniprot/P07864,1,0,breast_cancer,P07864,LDHC
+1896609,HEDPSGSLHLA,SLIT and NTRK-like protein 6,http://www.uniprot.org/uniprot/Q9H5Y7,1,0,breast_cancer,Q9H5Y7,SLITRK6
+1898943,IFGDPKKL,Melanoma-associated antigen 6,http://www.uniprot.org/uniprot/P43360,1,0,breast_cancer,P43360,MAGEA6
+1906413,KLLDEVT,Cytochrome P450 2J2,http://www.uniprot.org/uniprot/P51589,1,0,breast_cancer,P51589,CYP2J2
+1906414,KLLDEVTYLEA,Cytochrome P450 2J2,http://www.uniprot.org/uniprot/P51589,1,0,breast_cancer,P51589,CYP2J2
+1906864,KLYAGLKEL,"Spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,1,0,breast_cancer,O15020,SPTBN2
+1909227,KVIESTQGL,"Spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,1,0,breast_cancer,O15020,SPTBN2
+1909529,KVVEFLAML + OX(M8),Melanoma-associated antigen C1,http://www.uniprot.org/uniprot/O60732,1,0,breast_cancer,O60732,MAGEC1
+1913545,LQHGSLF,L-lactate dehydrogenase C chain,http://www.uniprot.org/uniprot/P07864,1,0,breast_cancer,P07864,LDHC
+1914942,MAHPFLLLIL,Cytochrome P450 4Z1,http://www.uniprot.org/uniprot/Q86W10,1,0,breast_cancer,Q86W10,CYP4Z1
+1919135,PEAISLLLL,Inter-alpha-trypsin inhibitor heavy chain H6,http://www.uniprot.org/uniprot/Q6UXX5,1,0,breast_cancer,Q6UXX5,ITIH6
+1920264,QDYEHVTML + OX(M8),"Spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,1,0,breast_cancer,O15020,SPTBN2
+1925178,REVDPDDSYVF,Melanoma-associated antigen C1,http://www.uniprot.org/uniprot/O60732,1,0,breast_cancer,O60732,MAGEC1
+1925267,REVPHSSPP,Melanoma-associated antigen C2,http://www.uniprot.org/uniprot/Q9UBF1,1,0,breast_cancer,Q9UBF1,MAGEC2
+1931372,SIFGDPKKL,Melanoma-associated antigen 6,http://www.uniprot.org/uniprot/P43360,1,0,breast_cancer,P43360,MAGEA6
+1931885,SLFDANRAELFA,"Spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,1,0,breast_cancer,O15020,SPTBN2
+1932778,SNPVDILTY,L-lactate dehydrogenase C chain,http://www.uniprot.org/uniprot/P07864,1,0,breast_cancer,P07864,LDHC
+1935789,TEMPGTLQA + OX(M3),"Spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,1,0,breast_cancer,O15020,SPTBN2
+2002142,KELEKEYAA,Homeobox protein Hox-C13,http://www.uniprot.org/uniprot/P31276,1,0,breast_cancer,P31276,HOXC13
+2002900,SVYSRSQYV,Claudin-8,http://www.uniprot.org/uniprot/P56748,1,0,breast_cancer,P56748,CLDN8
+32410,KMVELVHFL,"MAGEA2 protein, partial [Homo sapiens]",http://www.uniprot.org/uniprot/P43356,2,0,colorectal_cancer,P43356,MAGEA2
+32410,KMVELVHFL,"MAGEA2 protein, partial [Homo sapiens]",http://www.uniprot.org/uniprot/P43356,2,0,colorectal_cancer,P43356,MAGEA2B
+34095,KVLEYVIKV,Melanoma-associated antigen 1,http://www.uniprot.org/uniprot/P43355,1,0,colorectal_cancer,P43355,MAGEA1
+436808,DEKSIITY,"Spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,4,0,colorectal_cancer,O15020,SPTBN2
+483714,QYSDINNRW,"Spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,2,0,colorectal_cancer,O15020,SPTBN2
+505171,EVVGGSSDSY,Corneodesmosin,http://www.uniprot.org/uniprot/Q15517,1,0,colorectal_cancer,Q15517,CDSN
+718649,NLDSARFRY,L-lactate dehydrogenase C chain,http://www.uniprot.org/uniprot/P07864,2,0,colorectal_cancer,P07864,LDHC
+778146,SLLQGSPHL,Putative transcription factor Ovo-like 1,http://www.uniprot.org/uniprot/O14753,3,0,colorectal_cancer,O14753,OVOL1
+845960,KISGGPRISY,Melanoma-associated antigen 6,http://www.uniprot.org/uniprot/P43360,1,0,colorectal_cancer,P43360,MAGEA6
+877161,EIDKEEHLY,Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,1,0,colorectal_cancer,Q96JG8,MAGED4
+877161,EIDKEEHLY,Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,1,0,colorectal_cancer,Q96JG8,MAGED4B
+915145,DEALLIRNL,MYO5B protein [Homo sapiens],http://www.uniprot.org/uniprot/Q9ULV0,1,0,colorectal_cancer,Q9ULV0,MYO5B
+915997,IYVPVSLGF,Putative transcription factor Ovo-like 1,http://www.uniprot.org/uniprot/O14753,1,0,colorectal_cancer,O14753,OVOL1
+917392,SENNLGAVSL,ABCA12 transporter subfamily A [Homo sapiens],http://www.uniprot.org/uniprot/Q86UK0,1,0,colorectal_cancer,Q86UK0,ABCA12
+1109798,LYLPVHYGF,HEPACAM family member 2,http://www.uniprot.org/uniprot/A8MVW5,1,0,colorectal_cancer,A8MVW5,HEPACAM2
+1335081,PILDPLGYG,Desmoglein-1,http://www.uniprot.org/uniprot/Q02413,1,0,colorectal_cancer,Q02413,DSG1
+1359902,KQQAVSEEI,Sodium/hydrogen exchanger 2,http://www.uniprot.org/uniprot/Q9UBY0,1,0,colorectal_cancer,Q9UBY0,SLC9A2
+1712682,EATVSAPSP,Neurocan core protein,http://www.uniprot.org/uniprot/O14594,1,0,colorectal_cancer,O14594,NCAN
+1712841,EELTKLVPP,Calcium-transporting ATPase type 2C member 2,http://www.uniprot.org/uniprot/O75185,1,0,colorectal_cancer,O75185,ATP2C2
+1714830,NEMTVTQL,Calcium-transporting ATPase type 2C member 2,http://www.uniprot.org/uniprot/O75185,1,0,colorectal_cancer,O75185,ATP2C2
+2244306,DINDNPPVFSM,Desmoglein-1,http://www.uniprot.org/uniprot/Q02413,1,0,colorectal_cancer,Q02413,DSG1
+2253484,NENLDLKEL,Unconventional myosin-Vb,http://www.uniprot.org/uniprot/Q9ULV0,0,3,colorectal_cancer,Q9ULV0,MYO5B
+2351013,EEHLYIL,Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,1,0,colorectal_cancer,Q96JG8,MAGED4
+2351013,EEHLYIL,Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,1,0,colorectal_cancer,Q96JG8,MAGED4B
+2351470,EHLLLY,Glucosylceramide transporter ABCA12,http://www.uniprot.org/uniprot/Q86UK0,1,0,colorectal_cancer,Q86UK0,ABCA12
+2359903,LQTLPR,Leucine-rich repeat LGI family member 3,http://www.uniprot.org/uniprot/Q8N145,1,0,colorectal_cancer,Q8N145,LGI3
+483714,QYSDINNRW,"Spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,1,0,kidney_cancer,O15020,SPTBN2
+74881,YLQLVFGIEV,Melanoma-associated antigen 2,http://www.uniprot.org/uniprot/P43356,0,0,lung_cancer,P43356,MAGEA2
+74881,YLQLVFGIEV,Melanoma-associated antigen 2,http://www.uniprot.org/uniprot/P43356,0,0,lung_cancer,P43356,MAGEA2B
+95091,GVYDGREHTV,Melanoma-associated antigen 4,http://www.uniprot.org/uniprot/P43358,5,0,lung_cancer,P43358,MAGEA4
+194230,NMLGGKYQGTIL,desmoglein type 1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+219652,SVASPFTSK,Probable cation-transporting ATPase 13A5,http://www.uniprot.org/uniprot/Q4VNC0,2,0,lung_cancer,Q4VNC0,ATP13A5
+429187,AAGPPISEGKY,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,2,0,lung_cancer,Q15517,CDSN
+432242,SKGKIYPVGY,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,3,0,lung_cancer,Q15517,CDSN
+436808,DEKSIITY,"Spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,4,0,lung_cancer,O15020,SPTBN2
+436882,DILPSRSGTKQL,transglutaminase E3 [Homo sapiens],http://www.uniprot.org/uniprot/Q08188,1,0,lung_cancer,Q08188,TGM3
+437481,FVRSDLGPSYGGWQVL,protein-glutamine gamma-glutamyltransferase E [Homo sapiens],http://www.uniprot.org/uniprot/Q08188,1,0,lung_cancer,Q08188,TGM3
+437633,GILNPSQPGQSSSSSQ,Corneodesmosin,http://www.uniprot.org/uniprot/Q15517,2,0,lung_cancer,Q15517,CDSN
+437705,GPPISEGKY,Corneodesmosin,http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+439567,NVIEGPVFRPGSKT,desmoglein type 1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+439568,NVIEGPVFRPGSKTY,Desmoglein-1,http://www.uniprot.org/uniprot/Q02413,2,0,lung_cancer,Q02413,DSG1
+440898,SVSGGQRPVVVVVDQ,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+441632,VVTGNMGSNDKVGDF,desmoglein type 1,http://www.uniprot.org/uniprot/Q02413,2,0,lung_cancer,Q02413,DSG1
+455106,KEIDKEEHLY,melanoma-associated antigen D4 isoform 1 [Homo sapiens],http://www.uniprot.org/uniprot/Q96JG8,1,0,lung_cancer,Q96JG8,MAGED4
+455106,KEIDKEEHLY,melanoma-associated antigen D4 isoform 1 [Homo sapiens],http://www.uniprot.org/uniprot/Q96JG8,1,0,lung_cancer,Q96JG8,MAGED4B
+475598,AHYNLQNAF,"Spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,1,0,lung_cancer,O15020,SPTBN2
+476591,AVQKKTFTK,"Spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,2,0,lung_cancer,O15020,SPTBN2
+483714,QYSDINNRW,"Spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,1,0,lung_cancer,O15020,SPTBN2
+491228,FSNPLDEPVR,Protein-glutamine gamma-glutamyltransferase E,http://www.uniprot.org/uniprot/Q08188,1,0,lung_cancer,Q08188,TGM3
+504913,DTGRPSTTVR,Desmoglein-1,http://www.uniprot.org/uniprot/Q02413,2,0,lung_cancer,Q02413,DSG1
+505171,EVVGGSSDSY,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+506447,KNKVTKEQY,Desmoglein-1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+507423,NKVTKEQY,desmoglein type 1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+543495,KVLEHVVRV,Melanoma-associated antigen 4,http://www.uniprot.org/uniprot/P43358,5,0,lung_cancer,P43358,MAGEA4
+550998,DTGRPSTTVRY,Desmoglein-1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+557175,VATDLDTGRPSTTVR,desmoglein type 1,http://www.uniprot.org/uniprot/Q02413,2,0,lung_cancer,Q02413,DSG1
+557176,VATDLDTGRPSTTVRY,Desmoglein-1,http://www.uniprot.org/uniprot/Q02413,2,0,lung_cancer,Q02413,DSG1
+563169,EVFEGREDSVF,Melanoma-associated antigen 2,http://www.uniprot.org/uniprot/P43356,1,0,lung_cancer,P43356,MAGEA2
+563169,EVFEGREDSVF,Melanoma-associated antigen 2,http://www.uniprot.org/uniprot/P43356,1,0,lung_cancer,P43356,MAGEA2B
+584068,IETSYVKVL,Melanoma-associated antigen 2,http://www.uniprot.org/uniprot/P43356,1,0,lung_cancer,P43356,MAGEA2
+584068,IETSYVKVL,Melanoma-associated antigen 2,http://www.uniprot.org/uniprot/P43356,1,0,lung_cancer,P43356,MAGEA2B
+595139,EVNADRITWL,Protein-glutamine gamma-glutamyltransferase E,http://www.uniprot.org/uniprot/Q08188,1,0,lung_cancer,Q08188,TGM3
+595662,GILNPSQPGQSSSSSQT,Corneodesmosin,http://www.uniprot.org/uniprot/Q15517,2,0,lung_cancer,Q15517,CDSN
+613312,YHGEVPVSL,"Spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,1,0,lung_cancer,O15020,SPTBN2
+628751,AAGPPISEGKYF,Corneodesmosin,http://www.uniprot.org/uniprot/Q15517,2,0,lung_cancer,Q15517,CDSN
+653875,AAGPPISEG,Corneodesmosin,http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+653876,AAGPPISEGK,Corneodesmosin,http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+730191,VEENVSQKSY,sodium/hydrogen exchanger 2 precursor [Homo sapiens],http://www.uniprot.org/uniprot/Q9UBY0,1,0,lung_cancer,Q9UBY0,SLC9A2
+777890,SEAEIHQSF,Alpha-1-antichymotrypsin,http://www.uniprot.org/uniprot/P01011,2,0,lung_cancer,P01011,SERPINA3
+790529,EVVGGSSDSYLVPGMT,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+802440,IINRNTGEIR,Desmoglein-1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+822285,SSGGGSSGSSSGSSIAQGGSAGS,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+822514,SSSSSSQSSGKII,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+827403,VATDLDTGRPSTT,desmoglein type 1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+829847,VVTGNMGSNDKVGD,desmoglein type 1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+836619,AAAAARTAF,Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,1,0,lung_cancer,Q96JG8,MAGED4
+836619,AAAAARTAF,Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,1,0,lung_cancer,Q96JG8,MAGED4B
+866453,DTGRPSTTV,Desmoglein-1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+867017,GSNDKVGDF,desmoglein type 1,http://www.uniprot.org/uniprot/Q02413,2,0,lung_cancer,Q02413,DSG1
+867408,KIIRQEPSD,desmoglein type 1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+915997,IYVPVSLGF,Putative transcription factor Ovo-like 1,http://www.uniprot.org/uniprot/O14753,1,0,lung_cancer,O14753,OVOL1
+923346,GILNPSQPGQSSS,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+923799,SGPYIPSSH,Corneodesmosin,http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+923942,VMGNNPADL,desmoglein type 1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+933969,AGPPISEGKY,Corneodesmosin,http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+933973,AGQIEENSNANTL,desmoglein type 1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+934417,AVDSRTGKL,Desmoglein-1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+934418,AVDSRTGKLT,Desmoglein-1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+936527,FTKENPVKGSPGVP,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+936795,GGKYQGTIL,Desmoglein-1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+937153,GTGYSQVS,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+937154,GTGYSQVSY,Corneodesmosin,http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+939904,NIGDEALIGRW,Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,4,0,lung_cancer,Q96JG8,MAGED4
+939904,NIGDEALIGRW,Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,4,0,lung_cancer,Q96JG8,MAGED4B
+939922,NKAEFHHSIMSQY,desmoglein type 1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+939928,NKGLGSNERLE,Protein-glutamine gamma-glutamyltransferase E,http://www.uniprot.org/uniprot/Q08188,1,0,lung_cancer,Q08188,TGM3
+939956,NNFLDREQY,desmoglein type 1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+939957,NNFLDREQYG,Desmoglein-1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+939959,NNFLDREQYGQY,desmoglein type 1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+940010,NPSQPGQSSSSSQT,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+941224,SEAVLWEAL,melanoma-associated antigen D4 isoform 1 [Homo sapiens],http://www.uniprot.org/uniprot/Q96JG8,1,0,lung_cancer,Q96JG8,MAGED4
+941224,SEAVLWEAL,melanoma-associated antigen D4 isoform 1 [Homo sapiens],http://www.uniprot.org/uniprot/Q96JG8,1,0,lung_cancer,Q96JG8,MAGED4B
+941411,SGSSSSGSSISSAR,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,2,0,lung_cancer,Q15517,CDSN
+941910,SSNPIIPSQS,Corneodesmosin,http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+942061,SVSGGQRPVVVVVD,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+942494,TLKNKVTKEQY,desmoglein type 1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+942954,VATDLDTGRPST,desmoglein type 1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+942955,VATDLDTGRPSTTV,desmoglein type 1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+943288,VMGNNPADL + OX(M2),Desmoglein-1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+943289,VMGNNPADLL + OX(M2),Desmoglein-1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+944031,YVMGNNPADL + OX(M3),Desmoglein-1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+953295,ASKFITKEK,"HOXC13, partial [Homo sapiens]",http://www.uniprot.org/uniprot/P31276,2,0,lung_cancer,P31276,HOXC13
+953511,DSFNFNPHKW,Aromatic-L-amino-acid decarboxylase,http://www.uniprot.org/uniprot/P20711,4,0,lung_cancer,P20711,DDC
+954006,EVVGGSSDSYLVPGMTY,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+954122,FTKENPVKGSPGVPS,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+954182,GGGSSGSSSGSSIAQGGSAGS,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+954192,GILNPSQPGQSSSSS,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+954463,ILNPSQPGQSSSSSQ,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+954464,ILNPSQPGQSSSSSQT,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+954483,IPSSHSVSGGQRPVVVVVDQ,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+955365,RGILNPSQPGQSSSSSQT,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+955477,RTVEKPPKFTEK,"Spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,2,0,lung_cancer,O15020,SPTBN2
+955646,SGGGSSGSSSGSSIAQGGSAGS,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+955721,SSGGGSSGSSSGSSIAQGGSAG,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+955722,SSGGGSSGSSSGSSIAQGGSAGSF,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+955723,SSGGGSSGSSSGSSIAQGGSAGSFK,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+955726,SSGSGSSLQGASGSSQL,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+955727,SSGSGSSLQGASGSSQLGSSSSH,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+955734,SSNPIIPSQSAASSAIA,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+955735,SSNPIIPSQSAASSAIAF,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+956106,VMGNNPADLLAVDSRTGKLT,desmoglein type 1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+956172,VVTGNMGSNDKVG,desmoglein type 1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+956173,VVTGNMGSNDKVGDFVAT,desmoglein type 1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+956174,VVTGNMGSNDKVGDFVATD,desmoglein type 1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+956175,VVTGNMGSNDKVGDFVATDL,desmoglein type 1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+988346,ETTSTTLRW,Cytochrome P450 2J2,http://www.uniprot.org/uniprot/P51589,1,0,lung_cancer,P51589,CYP2J2
+1285772,TEMPGTLQA,"Spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,1,0,lung_cancer,O15020,SPTBN2
+1331435,DVNDNIPY,Desmoglein-1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+1332059,GILNPSQPGQS,Corneodesmosin,http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+1332395,IPVEGYQHW,Homeobox protein Hox-C13,http://www.uniprot.org/uniprot/P31276,1,0,lung_cancer,P31276,HOXC13
+1332408,ISGGPRISY,Melanoma-associated antigen 6,http://www.uniprot.org/uniprot/P43360,1,0,lung_cancer,P43360,MAGEA6
+1332901,NIGDEALIGRW + DEAM(N1),Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,1,0,lung_cancer,Q96JG8,MAGED4
+1332901,NIGDEALIGRW + DEAM(N1),Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,1,0,lung_cancer,Q96JG8,MAGED4B
+1333019,NVIEGPVFRPG,Desmoglein-1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+1334072,TTAEVVYSW,Gamma-aminobutyric acid receptor subunit alpha-3,http://www.uniprot.org/uniprot/P34903,1,0,lung_cancer,P34903,GABRA3
+1625566,AGPPISEGK,Corneodesmosin,http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+1626060,EVVGGSSDSYL,Corneodesmosin,http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+1626088,FISGNEGNW,Desmoglein-1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+1626675,MLSIDVAE + OX(M1),Protein-glutamine gamma-glutamyltransferase E,http://www.uniprot.org/uniprot/Q08188,1,0,lung_cancer,Q08188,TGM3
+1626676,MLSIDVAE,Protein-glutamine gamma-glutamyltransferase E,http://www.uniprot.org/uniprot/Q08188,1,0,lung_cancer,Q08188,TGM3
+1627091,SGIGGGGGGGG,Homeobox protein Hox-C13,http://www.uniprot.org/uniprot/P31276,1,0,lung_cancer,P31276,HOXC13
+1627329,TIEIQENTL,Desmoglein-1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+1627569,VVGGSSDSY,Corneodesmosin,http://www.uniprot.org/uniprot/Q15517,1,0,lung_cancer,Q15517,CDSN
+2065251,GGYGTLTSF,Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,1,0,lung_cancer,Q96JG8,MAGED4
+2065251,GGYGTLTSF,Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,1,0,lung_cancer,Q96JG8,MAGED4B
+2073341,VVTHHTLSRK,Calcium-activated chloride channel regulator 2,http://www.uniprot.org/uniprot/Q9UQC9,1,0,lung_cancer,Q9UQC9,CLCA2
+2235200,QLKELEKEY + PYRE(Q1),Homeobox protein Hox-C13,http://www.uniprot.org/uniprot/P31276,1,0,lung_cancer,P31276,HOXC13
+2236736,QYKGTVTVHLW + PYRE(Q1),Inositol hexakisphosphate kinase 3,http://www.uniprot.org/uniprot/Q96PC2,1,0,lung_cancer,Q96PC2,IP6K3
+2266595,LGSRQKKIRIQLRSQCATWKVICKS,X antigen family member 1,http://www.uniprot.org/uniprot/Q9HD64,0,0,lung_cancer,Q9HD64,XAGE1A
+2266595,LGSRQKKIRIQLRSQCATWKVICKS,X antigen family member 1,http://www.uniprot.org/uniprot/Q9HD64,0,0,lung_cancer,Q9HD64,XAGE1B
+2266601,MESPKKKNQQLKVGILHLGSRQKKIRIQLRSQ,X antigen family member 1,http://www.uniprot.org/uniprot/Q9HD64,0,0,lung_cancer,Q9HD64,XAGE1A
+2266601,MESPKKKNQQLKVGILHLGSRQKKIRIQLRSQ,X antigen family member 1,http://www.uniprot.org/uniprot/Q9HD64,0,0,lung_cancer,Q9HD64,XAGE1B
+2394978,AVDSRTGKLTLKNKVTKEQY,Desmoglein-1,http://www.uniprot.org/uniprot/Q02413,1,0,lung_cancer,Q02413,DSG1
+2397059,PTLGPKEGSRVR,Protein-glutamine gamma-glutamyltransferase E,http://www.uniprot.org/uniprot/Q08188,1,0,lung_cancer,Q08188,TGM3
+34095,KVLEYVIKV,Melanoma-associated antigen 1,http://www.uniprot.org/uniprot/P43355,0,0,ovarian_cancer,P43355,MAGEA1
+95091,GVYDGREHTV,Melanoma-associated antigen 4,http://www.uniprot.org/uniprot/P43358,1,0,ovarian_cancer,P43358,MAGEA4
+543495,KVLEHVVRV,Melanoma-associated antigen 4,http://www.uniprot.org/uniprot/P43358,1,0,ovarian_cancer,P43358,MAGEA4
+544750,RLFERSRIK,SPTBN2 protein,http://www.uniprot.org/uniprot/O15020,1,0,ovarian_cancer,O15020,SPTBN2
+704128,ETWLSENQR,SPTBN2 protein,http://www.uniprot.org/uniprot/O15020,1,0,ovarian_cancer,O15020,SPTBN2
+766280,VPYHGEVPVSL,SPTBN2 protein,http://www.uniprot.org/uniprot/O15020,1,0,ovarian_cancer,O15020,SPTBN2
+884127,STSSTIRTR,melanoma-associated antigen D4 isoform 3,http://www.uniprot.org/uniprot/Q96JG8,1,0,ovarian_cancer,Q96JG8,MAGED4
+884127,STSSTIRTR,melanoma-associated antigen D4 isoform 3,http://www.uniprot.org/uniprot/Q96JG8,1,0,ovarian_cancer,Q96JG8,MAGED4B
+915997,IYVPVSLGF,Putative transcription factor Ovo-like 1,http://www.uniprot.org/uniprot/O14753,1,0,ovarian_cancer,O14753,OVOL1
+1049879,SLIPHPFGV,Low-density lipoprotein receptor-related protein 2,http://www.uniprot.org/uniprot/P98164,1,0,ovarian_cancer,P98164,LRP2
+1916009,MNIGDEALIGR,melanoma-associated antigen D4 isoform 3,http://www.uniprot.org/uniprot/Q96JG8,1,0,ovarian_cancer,Q96JG8,MAGED4
+1916009,MNIGDEALIGR,melanoma-associated antigen D4 isoform 3,http://www.uniprot.org/uniprot/Q96JG8,1,0,ovarian_cancer,Q96JG8,MAGED4B
+46634,NYKHCFPEI,Melanoma-associated antigen 1,http://www.uniprot.org/uniprot/P43355,0,0,pancreatic_cancer,P43355,MAGEA1
+436808,DEKSIITY,"Spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,1,0,pancreatic_cancer,O15020,SPTBN2
+441632,VVTGNMGSNDKVGDF,Desmoglein-1,http://www.uniprot.org/uniprot/Q02413,1,0,pancreatic_cancer,Q02413,DSG1
+485747,SESQEGHVL,Putative transcription factor Ovo-like 1,http://www.uniprot.org/uniprot/O14753,1,0,pancreatic_cancer,O14753,OVOL1
+625188,SHDIVDGNHRL,"Spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,1,0,pancreatic_cancer,O15020,SPTBN2
+770842,AVLDVFEEGTEASAATAVK,Alpha-1-antichymotrypsin,http://www.uniprot.org/uniprot/P01011,1,0,pancreatic_cancer,P01011,SERPINA3
+773929,ITLLSALVETR,Alpha-1-antichymotrypsin,http://www.uniprot.org/uniprot/P01011,1,0,pancreatic_cancer,P01011,SERPINA3
+775464,LYGSEAFATDFQDSAAAK,Alpha-1-antichymotrypsin,http://www.uniprot.org/uniprot/P01011,1,0,pancreatic_cancer,P01011,SERPINA3
+915145,DEALLIRNL,Unconventional myosin-Vb,http://www.uniprot.org/uniprot/Q9ULV0,1,0,pancreatic_cancer,Q9ULV0,MYO5B
+935875,ETRDFIDAY,Cytochrome P450 2J2,http://www.uniprot.org/uniprot/P51589,1,0,pancreatic_cancer,P51589,CYP2J2
+939904,NIGDEALIGRW,Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,1,0,pancreatic_cancer,Q96JG8,MAGED4
+939904,NIGDEALIGRW,Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,1,0,pancreatic_cancer,Q96JG8,MAGED4B
+953511,DSFNFNPHKW,Aromatic-L-amino-acid decarboxylase,http://www.uniprot.org/uniprot/P20711,1,0,pancreatic_cancer,P20711,DDC
+987043,DYKKIPIKR,Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,1,0,pancreatic_cancer,Q96JG8,MAGED4
+987043,DYKKIPIKR,Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,1,0,pancreatic_cancer,Q96JG8,MAGED4B
+988346,ETTSTTLRW,Cytochrome P450 2J2,http://www.uniprot.org/uniprot/P51589,1,0,pancreatic_cancer,P51589,CYP2J2
+1002372,ASHLTPAVY,"Creatine kinase U-type, mitochondrial",http://www.uniprot.org/uniprot/P12532,1,0,pancreatic_cancer,P12532,CKMT1B
+1089603,ALLEKAYAK,Calpain-9,http://www.uniprot.org/uniprot/O14815,1,0,pancreatic_cancer,O14815,CAPN9
+2227356,DDLKVHSL,Unconventional myosin-Vb,http://www.uniprot.org/uniprot/Q9ULV0,1,0,pancreatic_cancer,Q9ULV0,MYO5B
+2228572,LSDLSIQIY,Unconventional myosin-Vb,http://www.uniprot.org/uniprot/Q9ULV0,1,0,pancreatic_cancer,Q9ULV0,MYO5B
+2228802,NSPLDEENLTQENQDRG,Alpha-1-antichymotrypsin,http://www.uniprot.org/uniprot/P01011,1,0,pancreatic_cancer,P01011,SERPINA3
+2228954,QRFYESLPLAMKRFTPQ,Inositol hexakisphosphate kinase 3,http://www.uniprot.org/uniprot/Q96PC2,1,0,pancreatic_cancer,Q96PC2,IP6K3
+237634,ALKDVEERV,Melanoma-associated antigen C2,http://www.uniprot.org/uniprot/Q9UBF1,0,0,prostate_cancer,Q9UBF1,MAGEC2
+2381,ALAETSYVK,Melanoma-associated antigen 1,http://www.uniprot.org/uniprot/P43355,1,0,skin_cancer,P43355,MAGEA1
+2857,ALREEEEGV,Melanoma-associated antigen 1,http://www.uniprot.org/uniprot/P43355,5,0,skin_cancer,P43355,MAGEA1
+11010,EADPTGHSY,melanoma-associated antigen 1,http://www.uniprot.org/uniprot/P43355,3,0,skin_cancer,P43355,MAGEA1
+15058,EYLQLVFGI,Melanoma-associated antigen 2,http://www.uniprot.org/uniprot/P43356,0,0,skin_cancer,P43356,MAGEA2
+15058,EYLQLVFGI,Melanoma-associated antigen 2,http://www.uniprot.org/uniprot/P43356,0,0,skin_cancer,P43356,MAGEA2B
+27187,ILLRDAGLV,taxol resistant associated protein [Homo sapiens],http://www.uniprot.org/uniprot/Q9Y5P2,0,0,skin_cancer,Q9Y5P2,CSAG3
+28958,ITKKVADLVGF,Melanoma-associated antigen 1,http://www.uniprot.org/uniprot/P43355,1,0,skin_cancer,P43355,MAGEA1
+32410,KMVELVHFL,"MAGEA2 protein, partial",http://www.uniprot.org/uniprot/P43356,2,0,skin_cancer,P43356,MAGEA2
+32410,KMVELVHFL,"MAGEA2 protein, partial",http://www.uniprot.org/uniprot/P43356,2,0,skin_cancer,P43356,MAGEA2B
+34095,KVLEYVIKV,Melanoma-associated antigen 1,http://www.uniprot.org/uniprot/P43355,5,0,skin_cancer,P43355,MAGEA1
+40382,LVHFLLLKY,Melanoma-associated antigen 2,http://www.uniprot.org/uniprot/P43356,0,0,skin_cancer,P43356,MAGEA2
+40382,LVHFLLLKY,Melanoma-associated antigen 2,http://www.uniprot.org/uniprot/P43356,0,0,skin_cancer,P43356,MAGEA2B
+46634,NYKHCFPEI,MAGE-1,http://www.uniprot.org/uniprot/P43355,0,0,skin_cancer,P43355,MAGEA1
+59101,SLFRAVITK,Melanoma-associated antigen 1,http://www.uniprot.org/uniprot/P43355,1,0,skin_cancer,P43355,MAGEA1
+66510,TSYVKVLEY,Melanoma-associated antigen 1,http://www.uniprot.org/uniprot/P43355,1,0,skin_cancer,P43355,MAGEA1
+66655,TTINFTRQR,Melanoma-associated antigen 1,http://www.uniprot.org/uniprot/P43355,1,0,skin_cancer,P43355,MAGEA1
+74881,YLQLVFGIEV,Melanoma-associated antigen 2,http://www.uniprot.org/uniprot/P43356,0,0,skin_cancer,P43356,MAGEA2
+74881,YLQLVFGIEV,Melanoma-associated antigen 2,http://www.uniprot.org/uniprot/P43356,0,0,skin_cancer,P43356,MAGEA2B
+95091,GVYDGREHTV,Melanoma-associated antigen 4,http://www.uniprot.org/uniprot/P43358,6,0,skin_cancer,P43358,MAGEA4
+224382,VETSYVKVL,MAGE-12 protein,http://www.uniprot.org/uniprot/P43365,2,0,skin_cancer,P43365,MAGEA12
+237634,ALKDVEERV,Melanoma-associated antigen C2,http://www.uniprot.org/uniprot/Q9UBF1,0,0,skin_cancer,Q9UBF1,MAGEC2
+237825,LLFGLALIEV,Melanoma-associated antigen C2,http://www.uniprot.org/uniprot/Q9UBF1,0,0,skin_cancer,Q9UBF1,MAGEC2
+238013,VIWEVLNAV,Melanoma-associated antigen C2,http://www.uniprot.org/uniprot/Q9UBF1,0,0,skin_cancer,Q9UBF1,MAGEC2
+426268,LVQENYLEY,Melanoma-associated antigen 2,http://www.uniprot.org/uniprot/P43356,0,0,skin_cancer,P43356,MAGEA2
+426268,LVQENYLEY,Melanoma-associated antigen 2,http://www.uniprot.org/uniprot/P43356,0,0,skin_cancer,P43356,MAGEA2B
+428406,WVQEHYLEY,cancer/testis antigen CT7,http://www.uniprot.org/uniprot/O60732,2,0,skin_cancer,O60732,MAGEC1
+428408,WVQGHYLEY,cancer-testis antigen CT10,http://www.uniprot.org/uniprot/Q9UBF1,2,0,skin_cancer,Q9UBF1,MAGEC2
+429187,AAGPPISEGKY,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,1,0,skin_cancer,Q15517,CDSN
+436881,DILHRYESL,Tripartite motif-containing protein 51,http://www.uniprot.org/uniprot/Q9BSJ1,1,0,skin_cancer,Q9BSJ1,TRIM51
+438495,KEIDKEEHL,Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,3,0,skin_cancer,Q96JG8,MAGED4
+438495,KEIDKEEHL,Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,3,0,skin_cancer,Q96JG8,MAGED4B
+439567,NVIEGPVFRPGSKT,desmoglein type 1,http://www.uniprot.org/uniprot/Q02413,1,0,skin_cancer,Q02413,DSG1
+441632,VVTGNMGSNDKVGDF,desmoglein type 1,http://www.uniprot.org/uniprot/Q02413,1,0,skin_cancer,Q02413,DSG1
+444026,FPSLREAAL,Melanoma-associated antigen 1,http://www.uniprot.org/uniprot/P43355,2,0,skin_cancer,P43355,MAGEA1
+445636,KMAELVHFL,MAGE-12 protein,http://www.uniprot.org/uniprot/P43365,2,0,skin_cancer,P43365,MAGEA12
+455061,KEADPTGHSY,melanoma-associated antigen 1,http://www.uniprot.org/uniprot/P43355,2,0,skin_cancer,P43355,MAGEA1
+464352,EVDPIGHVY,Melanoma-associated antigen 6,http://www.uniprot.org/uniprot/P43360,2,0,skin_cancer,P43360,MAGEA6
+468457,LTQDLVQEKYLEY,melanoma-associated antigen 1,http://www.uniprot.org/uniprot/P43355,1,0,skin_cancer,P43355,MAGEA1
+477938,EVYDGREHSA,melanoma-associated antigen 1,http://www.uniprot.org/uniprot/P43355,1,0,skin_cancer,P43355,MAGEA1
+483714,QYSDINNRW,"beta III spectrin, partial",http://www.uniprot.org/uniprot/O15020,1,0,skin_cancer,O15020,SPTBN2
+485210,SAFPTTINF,"Melanoma antigen family A, 1 (directs expression of antigen MZ2-E)",http://www.uniprot.org/uniprot/P43355,1,0,skin_cancer,P43355,MAGEA1
+502135,SAYGEPRKL,melanoma-associated antigen 1 [Homo sapiens],http://www.uniprot.org/uniprot/P43355,7,0,skin_cancer,P43355,MAGEA1
+504913,DTGRPSTTVR,desmoglein type 1,http://www.uniprot.org/uniprot/Q02413,1,0,skin_cancer,Q02413,DSG1
+505372,FVYGEPREL,Melanoma-associated antigen C2,http://www.uniprot.org/uniprot/Q9UBF1,7,0,skin_cancer,Q9UBF1,MAGEC2
+505725,GSPPNLPIL,"inter-alpha (globulin) inhibitor H5-like, isoform CRA_c, partial",http://www.uniprot.org/uniprot/Q6UXX5,2,0,skin_cancer,Q6UXX5,ITIH6
+540911,AEMLERVIKNY,MAGE-X2,http://www.uniprot.org/uniprot/P43358,1,0,skin_cancer,P43358,MAGEA4
+540929,AESLFREAL,MAGE-X2,http://www.uniprot.org/uniprot/P43358,2,0,skin_cancer,P43358,MAGEA4
+540934,AETSYVKVL,MAGE-4 protein [Homo sapiens],http://www.uniprot.org/uniprot/P43358,2,0,skin_cancer,P43358,MAGEA4
+540935,AETSYVKVLEY,"Melanoma antigen family A, 1 (directs expression of antigen MZ2-E)",http://www.uniprot.org/uniprot/P43355,1,0,skin_cancer,P43355,MAGEA1
+541120,ALSTRIIGGI,EAA5,http://www.uniprot.org/uniprot/Q13003,1,0,skin_cancer,Q13003,GRIK3
+541301,AVHDSFLYY,gp330 precursor,http://www.uniprot.org/uniprot/P98164,1,0,skin_cancer,P98164,LRP2
+541470,DGSHLLPVI,gp330 precursor,http://www.uniprot.org/uniprot/P98164,1,0,skin_cancer,P98164,LRP2
+541651,EDALRAQQF,"spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,1,0,skin_cancer,O15020,SPTBN2
+541873,EVDPASNTY,melanoma-associated antigen 4,http://www.uniprot.org/uniprot/P43358,3,0,skin_cancer,P43358,MAGEA4
+542101,FLYTYIAKV,ropporin-1A isoform a,http://www.uniprot.org/uniprot/Q9HAT0,1,0,skin_cancer,Q9HAT0,ROPN1
+542270,GEVERAQSEY,"spectrin beta chain, non-erythrocytic 2",http://www.uniprot.org/uniprot/O15020,1,0,skin_cancer,O15020,SPTBN2
+542612,GVYAGREHFV,Melanoma-associated antigen C2,http://www.uniprot.org/uniprot/Q9UBF1,3,0,skin_cancer,Q9UBF1,MAGEC2
+542958,IPHPFGVSL,gp330 precursor,http://www.uniprot.org/uniprot/P98164,1,0,skin_cancer,P98164,LRP2
+543073,IVLGTIAMEGDSASEEE,MAGE-X2,http://www.uniprot.org/uniprot/P43358,1,0,skin_cancer,P43358,MAGEA4
+543164,KEVDPTSNTY,MAGE-X2,http://www.uniprot.org/uniprot/P43358,1,0,skin_cancer,P43358,MAGEA4
+543480,KVDELAHFL,MAGE-X2,http://www.uniprot.org/uniprot/P43358,1,0,skin_cancer,P43358,MAGEA4
+543495,KVLEHVVRV,MAGE-X2,http://www.uniprot.org/uniprot/P43358,4,0,skin_cancer,P43358,MAGEA4
+543531,KYKDYFPVI,Melanoma-associated antigen C2,http://www.uniprot.org/uniprot/Q9UBF1,3,0,skin_cancer,Q9UBF1,MAGEC2
+543623,LEHVVRV,MAGE-X2,http://www.uniprot.org/uniprot/P43358,1,0,skin_cancer,P43358,MAGEA4
+543635,LERVIKNY,MAGE-X2,http://www.uniprot.org/uniprot/P43358,1,0,skin_cancer,P43358,MAGEA4
+543839,LLYDAVHIV,EAA5,http://www.uniprot.org/uniprot/Q13003,1,0,skin_cancer,Q13003,GRIK3
+543892,LPHPFAITI,"glycoprotein 330, partial",http://www.uniprot.org/uniprot/P98164,1,0,skin_cancer,P98164,LRP2
+545025,RYIGDSKILRW,LGI3,http://www.uniprot.org/uniprot/Q8N145,1,0,skin_cancer,Q8N145,LGI3
+545389,SPRIPFSTF,ropporin-1A isoform a,http://www.uniprot.org/uniprot/Q9HAT0,1,0,skin_cancer,Q9HAT0,ROPN1
+545566,SYVKVLHHL,MAGE-12 protein,http://www.uniprot.org/uniprot/P43365,2,0,skin_cancer,P43365,MAGEA12
+545671,TIDTADDATVM,cancer-testis antigen CT10,http://www.uniprot.org/uniprot/Q9UBF1,1,0,skin_cancer,Q9UBF1,MAGEC2
+545697,TLDEKVAEL,Melanoma-associated antigen C2,http://www.uniprot.org/uniprot/Q9UBF1,3,0,skin_cancer,Q9UBF1,MAGEC2
+545889,TYDGIQRK,gp330 precursor,http://www.uniprot.org/uniprot/P98164,1,0,skin_cancer,P98164,LRP2
+545940,VAPLTITHV,EAA5,http://www.uniprot.org/uniprot/Q13003,1,0,skin_cancer,Q13003,GRIK3
+546076,VLEHVVRV,MAGE-X2,http://www.uniprot.org/uniprot/P43358,1,0,skin_cancer,P43358,MAGEA4
+546300,VTYDGIQRK,gp330 precursor,http://www.uniprot.org/uniprot/P98164,1,0,skin_cancer,P98164,LRP2
+546327,VYDGREHTV,MAGE-X2,http://www.uniprot.org/uniprot/P43358,1,0,skin_cancer,P43358,MAGEA4
+546331,VYGEPRELL,Melanoma-associated antigen C2,http://www.uniprot.org/uniprot/Q9UBF1,2,0,skin_cancer,Q9UBF1,MAGEC2
+546399,WTDTVQNK,gp330 precursor,http://www.uniprot.org/uniprot/P98164,1,0,skin_cancer,P98164,LRP2
+546428,YDGREHTV,MAGE-X2,http://www.uniprot.org/uniprot/P43358,1,0,skin_cancer,P43358,MAGEA4
+550998,DTGRPSTTVRY,desmoglein type 1,http://www.uniprot.org/uniprot/Q02413,1,0,skin_cancer,Q02413,DSG1
+562066,ALIEVGPDHFC,cancer-testis antigen CT10,http://www.uniprot.org/uniprot/Q9UBF1,1,0,skin_cancer,Q9UBF1,MAGEC2
+563169,EVFEGREDSVF,"melanoma antigen family A, 2B",http://www.uniprot.org/uniprot/P43356,1,0,skin_cancer,P43356,MAGEA2
+563169,EVFEGREDSVF,"melanoma antigen family A, 2B",http://www.uniprot.org/uniprot/P43356,1,0,skin_cancer,P43356,MAGEA2B
+563444,EVVRIGHLY,MAGE-12 protein,http://www.uniprot.org/uniprot/P43365,1,0,skin_cancer,P43365,MAGEA12
+563493,FAFGEPREL,cancer/testis antigen CT7,http://www.uniprot.org/uniprot/O60732,3,0,skin_cancer,O60732,MAGEC1
+563615,GETVLVEGL,probable N-acetyltransferase 16,http://www.uniprot.org/uniprot/Q8N8M0,1,0,skin_cancer,Q8N8M0,NAT16
+563994,ISQTPGINL,X antigen family member 1,http://www.uniprot.org/uniprot/Q9HD64,1,0,skin_cancer,Q9HD64,XAGE1A
+563994,ISQTPGINL,X antigen family member 1,http://www.uniprot.org/uniprot/Q9HD64,1,0,skin_cancer,Q9HD64,XAGE1B
+563998,ITDDFVKQK,melanoma-associated antigen D4 isoform 3,http://www.uniprot.org/uniprot/Q96JG8,1,0,skin_cancer,Q96JG8,MAGED4
+563998,ITDDFVKQK,melanoma-associated antigen D4 isoform 3,http://www.uniprot.org/uniprot/Q96JG8,1,0,skin_cancer,Q96JG8,MAGED4B
+564145,KIWEELSVLE,MAGE-12 protein,http://www.uniprot.org/uniprot/P43365,1,0,skin_cancer,P43365,MAGEA12
+564190,KLLERVFVH,retinaldehyde-binding protein 1,http://www.uniprot.org/uniprot/P12271,1,0,skin_cancer,P12271,RLBP1
+564460,LLAAGFCPA,alpha-1-antichymotrypsin,http://www.uniprot.org/uniprot/P01011,1,0,skin_cancer,P01011,SERPINA3
+564480,LLLPGIYTV,carboxypeptidase N catalytic chain precursor,http://www.uniprot.org/uniprot/P15169,1,0,skin_cancer,P15169,CPN1
+564896,REPVTKAEML,"MAGEA2 protein, partial",http://www.uniprot.org/uniprot/P43356,1,0,skin_cancer,P43356,MAGEA2
+564896,REPVTKAEML,"MAGEA2 protein, partial",http://www.uniprot.org/uniprot/P43356,1,0,skin_cancer,P43356,MAGEA2B
+565357,RVYPESQAR,follistatin-related protein 5 isoform a precursor,http://www.uniprot.org/uniprot/Q8N475,1,0,skin_cancer,Q8N475,FSTL5
+565410,SEIQDGAFSHL,LGI3 protein,http://www.uniprot.org/uniprot/Q8N145,1,0,skin_cancer,Q8N145,LGI3
+565787,TEREFEEVL,probable N-acetyltransferase 16,http://www.uniprot.org/uniprot/Q8N8M0,1,0,skin_cancer,Q8N8M0,NAT16
+566099,YLHEPAVLHNL,MYO5B variant protein,http://www.uniprot.org/uniprot/Q9ULV0,1,0,skin_cancer,Q9ULV0,MYO5B
+567983,KVAELVEFL,Melanoma-associated antigen C2,http://www.uniprot.org/uniprot/Q9UBF1,1,0,skin_cancer,Q9UBF1,MAGEC2
+568497,SVFAHPRKL,Melanoma-associated antigen 2,http://www.uniprot.org/uniprot/P43356,5,0,skin_cancer,P43356,MAGEA2
+568497,SVFAHPRKL,Melanoma-associated antigen 2,http://www.uniprot.org/uniprot/P43356,5,0,skin_cancer,P43356,MAGEA2B
+590648,VFADVETHF,"3'OY11.1, partial [Homo sapiens]",http://www.uniprot.org/uniprot/P59817,2,0,skin_cancer,P59817,ZNF280A
+595662,GILNPSQPGQSSSSSQT,Corneodesmosin,http://www.uniprot.org/uniprot/Q15517,1,0,skin_cancer,Q15517,CDSN
+625188,SHDIVDGNHRL,SPTBN2 protein,http://www.uniprot.org/uniprot/O15020,3,0,skin_cancer,O15020,SPTBN2
+718649,NLDSARFRY,lactate dehydrogenase (E.C. 1.1.1.27),http://www.uniprot.org/uniprot/P07864,1,0,skin_cancer,P07864,LDHC
+765275,SVMSSNVSF,Melanoma-associated antigen C2,http://www.uniprot.org/uniprot/Q9UBF1,1,0,skin_cancer,Q9UBF1,MAGEC2
+771671,EALRKMGL,Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,1,0,skin_cancer,Q96JG8,MAGED4
+771671,EALRKMGL,Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,1,0,skin_cancer,Q96JG8,MAGED4B
+773344,GVYDGREHTVY,Melanoma-associated antigen 4,http://www.uniprot.org/uniprot/P43358,1,0,skin_cancer,P43358,MAGEA4
+822514,SSSSSSQSSGKII,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,1,0,skin_cancer,Q15517,CDSN
+827403,VATDLDTGRPSTT,desmoglein type 1,http://www.uniprot.org/uniprot/Q02413,1,0,skin_cancer,Q02413,DSG1
+842176,AVITKKVADLVGF,melanoma-associated antigen 1,http://www.uniprot.org/uniprot/P43355,1,0,skin_cancer,P43355,MAGEA1
+843241,EEVPSGVIPNL,cancer-testis antigen CT10,http://www.uniprot.org/uniprot/Q9UBF1,1,0,skin_cancer,Q9UBF1,MAGEC2
+843656,ESPLQSPVI,cancer/testis antigen CT7,http://www.uniprot.org/uniprot/O60732,1,0,skin_cancer,O60732,MAGEC1
+843767,EVYDGREHSAY,melanoma-associated antigen 1,http://www.uniprot.org/uniprot/P43355,1,0,skin_cancer,P43355,MAGEA1
+843921,FPVIFSKASEY,"MAGEA2 protein, partial",http://www.uniprot.org/uniprot/P43356,1,0,skin_cancer,P43356,MAGEA2
+843921,FPVIFSKASEY,"MAGEA2 protein, partial",http://www.uniprot.org/uniprot/P43356,1,0,skin_cancer,P43356,MAGEA2B
+843945,FRAVITKKV,melanoma-associated antigen 1,http://www.uniprot.org/uniprot/P43355,2,0,skin_cancer,P43355,MAGEA1
+845765,KEADPTGHSYVL,melanoma-associated antigen 1,http://www.uniprot.org/uniprot/P43355,1,0,skin_cancer,P43355,MAGEA1
+845960,KISGGPRISY,MAGEA6,http://www.uniprot.org/uniprot/P43360,1,0,skin_cancer,P43360,MAGEA6
+847355,NAVGVYAGR,Melanoma-associated antigen C2,http://www.uniprot.org/uniprot/Q9UBF1,4,0,skin_cancer,Q9UBF1,MAGEC2
+847675,NSSPPRYEF,cancer/testis antigen CT7,http://www.uniprot.org/uniprot/O60732,1,0,skin_cancer,O60732,MAGEC1
+847940,QSPQGASSL,MAGEA6,http://www.uniprot.org/uniprot/P43360,1,0,skin_cancer,P43360,MAGEA6
+848641,SAPEGEDSL,cancer/testis antigen CT7,http://www.uniprot.org/uniprot/O60732,1,0,skin_cancer,O60732,MAGEC1
+848732,SESLKMIF,MAGE-X2,http://www.uniprot.org/uniprot/P43358,1,0,skin_cancer,P43358,MAGEA4
+848844,SIFGDPKKLLTQY,MAGEA6,http://www.uniprot.org/uniprot/P43360,1,0,skin_cancer,P43360,MAGEA6
+848849,SIKKKVLEF,cancer-testis antigen CT10,http://www.uniprot.org/uniprot/Q9UBF1,3,0,skin_cancer,Q9UBF1,MAGEC2
+849589,TLVEVTLREV,MAGE-12 protein,http://www.uniprot.org/uniprot/P43365,1,0,skin_cancer,P43365,MAGEA12
+850006,VEVVPISHL,"MAGEA2 protein, partial",http://www.uniprot.org/uniprot/P43356,1,0,skin_cancer,P43356,MAGEA2
+850006,VEVVPISHL,"MAGEA2 protein, partial",http://www.uniprot.org/uniprot/P43356,1,0,skin_cancer,P43356,MAGEA2B
+850115,VIKRKVVEF,cancer/testis antigen CT7,http://www.uniprot.org/uniprot/O60732,2,0,skin_cancer,O60732,MAGEC1
+850704,YPSLREAAL,MAGE-4b antigen [Homo sapiens],http://www.uniprot.org/uniprot/P43358,3,0,skin_cancer,P43358,MAGEA4
+866453,DTGRPSTTV,desmoglein type 1,http://www.uniprot.org/uniprot/Q02413,1,0,skin_cancer,Q02413,DSG1
+877161,EIDKEEHLY,Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,2,0,skin_cancer,Q96JG8,MAGED4
+877161,EIDKEEHLY,Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,2,0,skin_cancer,Q96JG8,MAGED4B
+884485,TEAEQQQLI,"creatine kinase U-type, mitochondrial isoform 2 [Homo sapiens]",http://www.uniprot.org/uniprot/P12532-2,1,0,skin_cancer,P12532,CKMT1B
+923346,GILNPSQPGQSSS,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,1,0,skin_cancer,Q15517,CDSN
+923382,GSNPARYEF,Melanoma-associated antigen 4,http://www.uniprot.org/uniprot/P43358,2,0,skin_cancer,P43358,MAGEA4
+923396,GVPFRNVDND,MAGEE1 [Homo sapiens],http://www.uniprot.org/uniprot/Q9UBF1,1,0,skin_cancer,Q9UBF1,MAGEC2
+923410,IAYPSLREA,Melanoma-associated antigen 4,http://www.uniprot.org/uniprot/P43358,2,0,skin_cancer,P43358,MAGEA4
+923435,KEDPELMKY,"hCG1641026, isoform CRA_a [Homo sapiens]",http://www.uniprot.org/uniprot/Q6P6D5,1,0,skin_cancer,Q6P6D5,MYT1
+923441,KEVDPASNTY,MAGE-4 protein [Homo sapiens],http://www.uniprot.org/uniprot/P43358,1,0,skin_cancer,P43358,MAGEA4
+923463,LDREQYGQY,desmoglein type 1,http://www.uniprot.org/uniprot/Q02413,1,0,skin_cancer,Q02413,DSG1
+923794,SGEILPKPT,SPTBN2 protein [Homo sapiens],http://www.uniprot.org/uniprot/O15020,1,0,skin_cancer,O15020,SPTBN2
+923799,SGPYIPSSH,corneodesmosin [Homo sapiens],http://www.uniprot.org/uniprot/Q15517,1,0,skin_cancer,Q15517,CDSN
+923921,TVYGEPRKL,MAGE-4 protein [Homo sapiens],http://www.uniprot.org/uniprot/P43358,2,0,skin_cancer,P43358,MAGEA4
+923942,VMGNNPADL,desmoglein type 1,http://www.uniprot.org/uniprot/Q02413,1,0,skin_cancer,Q02413,DSG1
+986128,DANRPSTAF,Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,1,0,skin_cancer,Q96JG8,MAGED4
+986128,DANRPSTAF,Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,1,0,skin_cancer,Q96JG8,MAGED4B
+1007329,EAVLWEALR,Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,1,0,skin_cancer,Q96JG8,MAGED4
+1007329,EAVLWEALR,Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,1,0,skin_cancer,Q96JG8,MAGED4B
+1022347,ITDDFVKQKY,Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,1,0,skin_cancer,Q96JG8,MAGED4
+1022347,ITDDFVKQKY,Melanoma-associated antigen D4,http://www.uniprot.org/uniprot/Q96JG8,1,0,skin_cancer,Q96JG8,MAGED4B
+1029738,LLAAGFCPA + METH(C7),Alpha-1-antichymotrypsin,http://www.uniprot.org/uniprot/P01011,1,0,skin_cancer,P01011,SERPINA3
+1031866,LSRNHLSSI,Leucine-rich repeat transmembrane protein FLRT1,http://www.uniprot.org/uniprot/Q9NZU1,1,0,skin_cancer,Q9NZU1,FLRT1
+1049879,SLIPHPFGV,Low-density lipoprotein receptor-related protein 2,http://www.uniprot.org/uniprot/P98164,1,0,skin_cancer,P98164,LRP2
+1596621,EPFTKAEM,Melanoma-associated antigen 12,http://www.uniprot.org/uniprot/P43365,2,0,skin_cancer,P43365,MAGEA12
+1596622,ESIKKKVL,Melanoma-associated antigen C2,http://www.uniprot.org/uniprot/Q9UBF1,1,0,skin_cancer,Q9UBF1,MAGEC2
+1596688,KYKDYFPVIL,Melanoma-associated antigen C2,http://www.uniprot.org/uniprot/Q9UBF1,1,0,skin_cancer,Q9UBF1,MAGEC2
+1596744,PHSSPPYYEF,Melanoma-associated antigen C2,http://www.uniprot.org/uniprot/Q9UBF1,1,0,skin_cancer,Q9UBF1,MAGEC2
+1596755,QVMPKTGL,Melanoma-associated antigen 2,http://www.uniprot.org/uniprot/P43356,2,0,skin_cancer,P43356,MAGEA2
+1596755,QVMPKTGL,Melanoma-associated antigen 2,http://www.uniprot.org/uniprot/P43356,2,0,skin_cancer,P43356,MAGEA2B
+1877545,ALVSEHAQR,ankyrin repeat domain-containing protein 30B,http://www.uniprot.org/uniprot/Q9BXX2,1,0,skin_cancer,Q9BXX2,ANKRD30B
+1910298,LDSTLDSY,cytochrome P450 4Z1 [Homo sapiens],http://www.uniprot.org/uniprot/Q86W10,1,0,skin_cancer,Q86W10,CYP4Z1
+2139001,AYGEPRKL,Melanoma-associated antigen 1,http://www.uniprot.org/uniprot/P43355,1,0,skin_cancer,P43355,MAGEA1
+2188432,KVLEFLAKL,Melanoma-associated antigen C2,http://www.uniprot.org/uniprot/Q9UBF1,0,0,skin_cancer,Q9UBF1,MAGEC2
+2188893,TLDEKVAELV,Melanoma-associated antigen C2,http://www.uniprot.org/uniprot/Q9UBF1,0,0,skin_cancer,Q9UBF1,MAGEC2
+2268474,ESLFREAL,Melanoma-associated antigen 4,http://www.uniprot.org/uniprot/P43358,1,0,skin_cancer,P43358,MAGEA4
+2268553,QIFPKTGL,Melanoma-associated antigen 4,http://www.uniprot.org/uniprot/P43358,1,0,skin_cancer,P43358,MAGEA4
+2268593,TSYVKVLEH,Melanoma-associated antigen 4,http://www.uniprot.org/uniprot/P43358,1,0,skin_cancer,P43358,MAGEA4
+2268594,TSYVKVLHH,Melanoma-associated antigen 2,http://www.uniprot.org/uniprot/P43356,4,0,skin_cancer,P43356,MAGEA2
+2268594,TSYVKVLHH,Melanoma-associated antigen 2,http://www.uniprot.org/uniprot/P43356,4,0,skin_cancer,P43356,MAGEA2B
+2268603,VFAHPRKL,Melanoma-associated antigen 2,http://www.uniprot.org/uniprot/P43356,1,0,skin_cancer,P43356,MAGEA2
+2268603,VFAHPRKL,Melanoma-associated antigen 2,http://www.uniprot.org/uniprot/P43356,1,0,skin_cancer,P43356,MAGEA2B
+2268614,VYGEPRKL,Melanoma-associated antigen 4,http://www.uniprot.org/uniprot/P43358,1,0,skin_cancer,P43358,MAGEA4
+2268615,YAGREHFVY,Melanoma-associated antigen C2,http://www.uniprot.org/uniprot/Q9UBF1,1,0,skin_cancer,Q9UBF1,MAGEC2
+2281398,AEMLMIVIKYKDYFP,Melanoma-associated antigen C2,http://www.uniprot.org/uniprot/Q9UBF1,0,0,skin_cancer,Q9UBF1,MAGEC2
+2281410,EYREVPHSSPPYYEF,Melanoma-associated antigen C2,http://www.uniprot.org/uniprot/Q9UBF1,0,0,skin_cancer,Q9UBF1,MAGEC2
+2281421,GVYAGREHFVYGEPR,Melanoma-associated antigen C2,http://www.uniprot.org/uniprot/Q9UBF1,0,0,skin_cancer,Q9UBF1,MAGEC2
+2281433,MELLFGLALIEVGPD,Melanoma-associated antigen C2,http://www.uniprot.org/uniprot/Q9UBF1,0,0,skin_cancer,Q9UBF1,MAGEC2
+2281469,VPHSSPPYYEFLWGP,Melanoma-associated antigen C2,http://www.uniprot.org/uniprot/Q9UBF1,0,0,skin_cancer,Q9UBF1,MAGEC2
