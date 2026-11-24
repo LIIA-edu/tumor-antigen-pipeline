@@ -1,2 +1,2 @@
 # tumor-antigen-pipeline
-Nextflow pipeline contaning Python and R scripts for single-cell RNA-seq analysis to identify and prioritize tumor-specific antigen candidates developed for "Integrative Pan-Cancer Prioritization of Candidate Tumor Antigens Using Single-Cell Transcriptomics" study. 
+Nextflow pipeline contaning Python and R scripts for single-cell RNA-seq analysis to identify and prioritize tumor-specific antigen candidates developed for "Dissecting the Tumor Microenvironment at Single-Cell Resolution to Prioritize Candidate Tumor Antigens Across Multiple Cancer Types" study. 
