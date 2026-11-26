@@ -35,7 +35,6 @@ flowchart TD
     C --> F["05 - Cross-Tumor Comparison"]
     C --> G["06 - Epitope Evidence"]
     C --> H["07 - Healthy-Tissue Expression"]
-    C --> I["08 - Literature Review"]
 
     D --> J["09 - Integrated Candidate Table"]
     E --> J
