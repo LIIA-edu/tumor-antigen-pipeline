@@ -33,8 +33,9 @@ flowchart TD
     C --> D["03 - Antigen Classification"]
     C --> E["04 - Expression in Normal Cells"]
     C --> F["05 - Cross-Tumor Comparison"]
-    C --> G["06 - Epitope Evidence"]
+    C --> G["06 - Access HPA specificity data"]
     C --> H["07 - Healthy-Tissue Expression"]
+    C --> I["08 - Modules of malignant Cells and enrichment"]
 
     D --> J["09 - Integrated Candidate Table"]
     E --> J
